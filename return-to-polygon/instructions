@@ -1,0 +1,11 @@
+Instructions to recreate 'Return to Polygon' program and use it with AxiDraw V3/A3 pen plotter.
+
+Go to return-to-polygon folder:
+-Ensure have equipment listed in equipment-list
+
+Go to return-to-polygon/tutorial-resources folder:
+-Follow 3Ai_Studio_Plotter_Induction.pdf to set up programming environment (by teaching staff at MAppCy)
+-Set up pen plotter as per instructions in AxiDraw_Guide_v45 (by AxiDraw)
+
+Go to return-to-polygon folder:
+-See example code in return-to-polygon.py
