@@ -1,0 +1,25 @@
+Equipment/tools used to create and run Return to Polygon.
+
+Computer setup equipment:
+- Raspberry Pi 3 Model B+
+- Monitor with HDMI cable
+- Keyboard with USB connection
+- Mouse with USB connection
+- SanDisk Ultra microSDHC UHS-I card with adapter
+- Raspberry Pi Universal Power Supply (2.5A, 5.1V)
+
+Camera setup equipment:
+- Raspberry Pi Camera V2
+
+LED matrix setup equipment:
+- GST60A05-PJ1 Adaptor (6A, 5V)
+- Universal power cord (i.e. with C13 female connector)
+- RGB Matrix Bonnet for Raspberry Pi
+- RGB LED matrix (64x32 - 6mm pitch)
+- GPIO ribbon cable
+- LED matrix power cable
+
+Paint setup equipment:
+- Terumo 5mL luer lock syringes (at least 5)
+- Acrylic paint (cyan, magenta, yellow, white, black - or combinations that can achieve these colours)
+
