@@ -1,25 +1,25 @@
 Equipment/tools used to create and run Return to Polygon.
 
 Computer setup equipment:
-- Raspberry Pi 3 Model B+
+- Raspberry Pi 3 Model B+ - https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/
 - Monitor with HDMI cable
 - Keyboard with USB connection
 - Mouse with USB connection
-- SanDisk Ultra microSDHC UHS-I card with adapter
-- Raspberry Pi Universal Power Supply (2.5A, 5.1V)
+- SanDisk Ultra microSDHC UHS-I card with adapter - https://www.officeworks.com.au/shop/officeworks/p/sandisk-ultra-32gb-sdhc-uhs-i-memory-card-sdsdun432
+- Raspberry Pi Universal Power Supply (2.5A, 5.1V) - https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/
 
 Camera setup equipment:
-- Raspberry Pi Camera V2
+- Raspberry Pi Camera V2 - https://www.raspberrypi.org/products/camera-module-v2/
 
 LED matrix setup equipment:
 - GST60A05-PJ1 Adaptor (6A, 5V)
 - Universal power cord (i.e. with C13 female connector)
-- RGB Matrix Bonnet for Raspberry Pi
-- RGB LED matrix (64x32 - 6mm pitch)
+- RGB Matrix Bonnet for Raspberry Pi - https://www.adafruit.com/product/3211
+- RGB LED matrix (64x32 - 6mm pitch) - https://www.adafruit.com/product/2276
 - GPIO ribbon cable
 - LED matrix power cable
 
 Paint setup equipment:
-- Terumo 5mL luer lock syringes (at least 5)
+- Terumo 5mL luer lock syringes (at least 5 syringes) - https://www.mcfarlanemedical.com.au/19065TE/SYRINGE-5ML-LUER-LOCK-TERUMO-%28ISS%2A05L%29--BOX_or_100/pd.php
 - Acrylic paint (cyan, magenta, yellow, white, black - or combinations that can achieve these colours)
 
