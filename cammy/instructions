@@ -1,15 +1,61 @@
-Code:
+
+
+
+
+Setting up the Raspberry Pi:
+- Follow instructions here - https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up
+
+Setting up the LED matrix:
+- Follow the instructions here (CAMMY uses a 32x64 RGB LED matrix with an RGB Matrix Bonnet for Raspberry Pi) - https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi
+- Things to note while going through the above tutorial:
+    - Powering up: Recommend using a GST60A05-PJ1 Adaptor (rated to 6A, 5V) to power the matrix
+    - Step 2: During Step 2 make sure you check that the prongs of your power cable are inserted into the terminal blocks, not under them. (As you tighten the screws, the bottom of the terminal blocks will rise, so if you try to insert the prongs when the screws are fully tightened, your prongs may pass underneath the actual terminal input). 
+    - Step 2: Note that the prongs on the power cables used in Step 2 may break off after extended use, so make sure to have spares on hand if you want to keep the prongs plugged in over an extended period of time.
+    - Step 3: If you are using a 32x64 RGB matrix, you will not need to do the soldering step.
+    - Step 6: Complete the software steps as described, and the test examples should work.
+    - After you have tested some of the examples, you will need to complete the steps described below under 'Setting up code for CAMMY' in order to get the LED matrix working for CAMMY.
+
+Setting up the Raspberry Pi camera:
+- Follow the instructions here - https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+- Things to note while going through the above tutorial:
+    - CAMMY used the standard version of the camera module (not the 'NoIR' version)
+    - CAMMY used camera.capture to capture images, and camera.start_preview to help the user place their object where CAMMY could see it
+    - CAMMY did not use video capture
+    
+
+Collecting data:
+- Follow these instruction:
+1. Capture a set of images of coloured objects using CAMMY's camera. The file 'camera-test_data-collection.py' in this folder (https://github.com/tamejames/2021-build-journey/tree/main/cammy) may help.
+2. Set up cyan, magenta, yellow, white and black acrylic paints, with one 5mL syringe for each paint. Also set up an A3 sheet of paper (remember to add a protective layer beneath the sheet if you don't want to stain the surface beneath the sheet).
+3. For each set of images, captured using 'camera-test_data-collection.py', look at the cropped version of the image.
+4. For each cropped image, use syringes to measure out different levels of paint, remembering to note the volume of each paint used to create the mixture.
+5. Mix the mixture with a pop stick or paintbrush.
+6. If you are unhappy with the final colour, either start again, or continue adding various paints, until you are happy. Don't worry if your first few tries look really wrong - you will get better with practice.
+7. Once you are happy with the colour, note down the final amounts of each paint used to create that colour.
+8. Record this colour mixture in the CSV file that was created by 'camera-test_data-collection.py' (if you have not changed the code, it should be a file saved to the desktop of your Raspberry Pi, with the filename 'camera_test_image_data.csv'). You will note that each row of the CSV has an image number that should correspond to the images you captured in step 1.
+9. Once you have collected all the data, copy it into a new CSV file with the filename 'image-data-by-paint-percentage.csv' (this will be used for training later) - you will want to save this in this folder: https://github.com/tamejames/2021-build-journey/tree/main/cammy/CAMMY-code/bindings/python/samples
+10. Format this CSV with the following column headings (in order): Image #, R, G, B, C percent by paint vol, M percent by paint vol, Y percent by paint vol, W percent by paint vol, B percent by paint vol
+11. Now use the volumes of CMYWB paints to calculate what percentage of each paint (by volume) is used to create that specific colour mixture.
+12. Convert these percentage values to integers e.g. '50%' will just be '50'.
+13. Congratulations, you are now ready to train your model.
+
+Training model:
+Once you have finished collecting all the data, you will need to do the following.
+1. Ensure that 'image-data-by-paint-percentage.csv' is in the same folder as the machine learning models (i.e. the following files):
+        01_model-c-linear-reg.py --> this is the machine learning model for cyan paint
+        01_model-m-linear-reg.py --> this is the machine learning model for magenta paint
+        01_model-y-linear-reg.py --> this is the machine learning model for yellow paint
+        01_model-w-linear-reg.py --> this is the machine learning model for white paint
+        01_model-b-linear-reg.py --> this is the machine learning model for black paint
+2. Run each of these files separately. As you run each one, you should see a .sav file appear - this is a saved version of your model. For instance, after you run '01_model-c-linear-reg.py' you should see 'c_guess_model_linreg.sav' appear in the folder.
+3. Make sure that each of these .sav files is in the same folder as the program 00-cammy-main-code.py (see below).
+
+Setting up code for CAMMY:
 - Save a copy of hzeller's rpi-rgb-led-matrix repository - see here: https://github.com/hzeller/rpi-rgb-led-matrix
 - Replace the 'bindings' folder with the 'bindings' folder in this repository (see here: https://github.com/tamejames/2021-build-journey/tree/main/cammy/CAMMY-code/bindings)
 - Navigate to here: https://github.com/tamejames/2021-build-journey/tree/main/cammy/CAMMY-code/bindings/python/samples
-- Main files of interest are:
-    00-cammy-main-code.py --> this is the main program
-    The following five files are called in the main program, and are assumed to be in the same directory as the main program:
-    01_model-c-linear-reg.py --> this is the machine learning model for cyan paint
-    01_model-m-linear-reg.py --> this is the machine learning model for magenta paint
-    01_model-y-linear-reg.py --> this is the machine learning model for yellow paint
-    01_model-w-linear-reg.py --> this is the machine learning model for white paint
-    01_model-b-linear-reg.py --> this is the machine learning model for black paint
+- Run the program 00-cammy-main-code.py --> this is the main program for CAMMY, and should allow you to do the following:
+    - Capture an image via the Raspberry Pi camera
+    - Identify a colour from a cropped version of the image
+    - Generate a graph showing the percentages of cyan, magenta, yellow, white, and black paint required to create the colour identified by CAMMY
 - Note that it is recommended that you replace the entire 'bindings' folder from the original rpi-rgb-led-matrix repository.
-
-    
