@@ -1,0 +1,15 @@
+Code:
+- Save a copy of hzeller's rpi-rgb-led-matrix repository - see here: https://github.com/hzeller/rpi-rgb-led-matrix
+- Replace the 'bindings' folder with the 'bindings' folder in this repository (see here: https://github.com/tamejames/2021-build-journey/tree/main/cammy/CAMMY-code/bindings)
+- Navigate to here: https://github.com/tamejames/2021-build-journey/tree/main/cammy/CAMMY-code/bindings/python/samples
+- Main files of interest are:
+    00-cammy-main-code.py --> this is the main program
+    The following five files are called in the main program, and are assumed to be in the same directory as the main program:
+    01_model-c-linear-reg.py --> this is the machine learning model for cyan paint
+    01_model-m-linear-reg.py --> this is the machine learning model for magenta paint
+    01_model-y-linear-reg.py --> this is the machine learning model for yellow paint
+    01_model-w-linear-reg.py --> this is the machine learning model for white paint
+    01_model-b-linear-reg.py --> this is the machine learning model for black paint
+- Note that it is recommended that you replace the entire 'bindings' folder from the original rpi-rgb-led-matrix repository.
+
+    
