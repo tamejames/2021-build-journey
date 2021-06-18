@@ -1,0 +1,1077 @@
+2021-05-09 21:44:26,853 [INFO] Logger successfully initalised
+2021-05-09 21:44:35,749 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 22:13:54,340 [INFO] Logger successfully initalised
+2021-05-09 22:15:43,764 [INFO] Logger successfully initalised
+2021-05-09 22:15:43,781 [DEBUG] Graphics instance successfully initalised
+2021-05-09 22:17:26,028 [INFO] Logger successfully initalised
+2021-05-09 22:17:26,037 [DEBUG] Graphics instance successfully initalised
+2021-05-09 22:17:26,041 [INFO] Running graphics
+2021-05-09 22:18:36,445 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 22:22:34,034 [INFO] Logger successfully initalised
+2021-05-09 22:22:34,043 [DEBUG] Graphics instance successfully initalised
+2021-05-09 22:22:34,048 [INFO] Running graphics
+2021-05-09 22:22:49,215 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 22:50:30,113 [INFO] Logger successfully initalised
+2021-05-09 22:50:30,124 [DEBUG] Graphics instance successfully initalised
+2021-05-09 22:50:30,131 [INFO] Running graphics
+2021-05-09 22:50:34,285 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 22:53:42,540 [INFO] Logger successfully initalised
+2021-05-09 22:53:42,558 [DEBUG] Graphics instance successfully initalised
+2021-05-09 22:53:42,567 [INFO] Running graphics
+2021-05-09 22:53:46,642 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 22:53:46,657 [INFO] Random target set created for guessing: [(64, 107, 152), (254, 242, 175), (33, 64, 133), (6, 88, 66), (113, 134, 9), (183, 97, 5), (233, 176, 18), (165, 81, 168), (155, 199, 51), (99, 118, 26), (116, 220, 184), (196, 8, 251), (28, 178, 197), (12, 39, 215), (245, 44, 167), (7, 99, 159), (129, 164, 78), (222, 186, 65), (198, 206, 28), (255, 0, 0)]
+2021-05-09 23:00:43,452 [INFO] Logger successfully initalised
+2021-05-09 23:00:43,470 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:00:43,478 [INFO] Running graphics
+2021-05-09 23:00:46,744 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 23:00:46,745 [DEBUG] Setting Goal to 255, 0, 0
+2021-05-09 23:00:46,763 [DEBUG] Random target set created for guessing: [(38, 80, 106), (142, 211, 219), (21, 37, 233), (184, 173, 134), (43, 210, 147), (110, 115, 182), (217, 225, 81), (100, 248, 159), (140, 249, 138), (226, 187, 158), (124, 21, 208), (185, 83, 250), (24, 1, 19), (138, 58, 180), (96, 223, 220), (136, 161, 191), (82, 104, 38), (157, 46, 130), (128, 128, 204), (255, 0, 0)]
+2021-05-09 23:06:15,964 [INFO] Logger successfully initalised
+2021-05-09 23:06:15,979 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:06:15,987 [INFO] Running graphics
+2021-05-09 23:06:18,869 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 23:06:18,870 [DEBUG] Setting Goal to 255, 0, 0
+2021-05-09 23:06:18,884 [DEBUG] Random target set created for guessing: [(225, 227, 176), (184, 105, 50), (157, 237, 227), (39, 38, 169), (105, 43, 81), (76, 214, 250), (188, 154, 11), (167, 42, 146), (219, 113, 205), (64, 23, 181), (199, 13, 194), (113, 160, 192), (95, 50, 125), (159, 193, 64), (204, 182, 220), (176, 68, 137), (8, 172, 235), (195, 24, 225), (186, 189, 68), (255, 0, 0)]
+2021-05-09 23:06:39,621 [INFO] Logger successfully initalised
+2021-05-09 23:06:39,633 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:06:39,653 [INFO] Running graphics
+2021-05-09 23:06:42,868 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 23:06:42,873 [DEBUG] Setting Goal to 255, 0, 0
+2021-05-09 23:06:42,914 [DEBUG] Random target set created for guessing: [(139, 164, 254), (126, 108, 227), (213, 159, 235), (142, 226, 211), (225, 157, 65), (227, 165, 34), (69, 252, 125), (42, 125, 173), (167, 141, 73), (212, 147, 128), (156, 112, 180), (108, 151, 200), (17, 228, 190), (157, 231, 24), (49, 4, 71), (59, 97, 55), (3, 5, 113), (148, 84, 6), (81, 169, 234), (255, 0, 0)]
+2021-05-09 23:06:42,921 [DEBUG] Setting Prediction to 17, 228, 190
+2021-05-09 23:06:49,400 [INFO] Logger successfully initalised
+2021-05-09 23:06:49,409 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:06:49,425 [INFO] Running graphics
+2021-05-09 23:06:52,365 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 23:06:52,369 [DEBUG] Setting Goal to 255, 0, 0
+2021-05-09 23:06:52,422 [DEBUG] Random target set created for guessing: [(223, 134, 10), (221, 215, 245), (104, 145, 226), (80, 39, 101), (139, 159, 15), (11, 176, 177), (174, 127, 80), (35, 157, 25), (44, 116, 147), (166, 87, 68), (253, 155, 246), (168, 47, 125), (144, 81, 2), (235, 211, 97), (133, 68, 240), (194, 49, 199), (217, 85, 14), (8, 142, 221), (74, 16, 204), (255, 0, 0)]
+2021-05-09 23:06:52,428 [DEBUG] Setting Prediction to 235, 211, 97
+2021-05-09 23:07:07,311 [INFO] Logger successfully initalised
+2021-05-09 23:07:07,321 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:07:07,341 [INFO] Running graphics
+2021-05-09 23:07:10,692 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 23:07:10,693 [DEBUG] Setting Goal to 255, 0, 0
+2021-05-09 23:07:10,705 [DEBUG] Random target set created for guessing: [(134, 106, 83), (2, 180, 197), (50, 206, 209), (224, 24, 107), (225, 16, 48), (28, 208, 222), (35, 42, 144), (18, 80, 34), (186, 199, 149), (182, 56, 165), (198, 96, 253), (200, 81, 164), (119, 77, 23), (254, 14, 33), (231, 107, 2), (101, 198, 140), (114, 114, 78), (123, 3, 221), (141, 53, 156), (255, 0, 0)]
+2021-05-09 23:07:10,707 [DEBUG] Setting Prediction to 200, 81, 164
+2021-05-09 23:08:38,826 [INFO] Logger successfully initalised
+2021-05-09 23:08:38,839 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:08:38,847 [INFO] Running graphics
+2021-05-09 23:08:44,671 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 23:08:44,672 [DEBUG] Setting Goal to 255, 0, 0
+2021-05-09 23:08:44,684 [DEBUG] Random target set created for guessing: [(70, 132, 67), (91, 160, 64), (43, 141, 129), (95, 92, 152), (252, 65, 77), (69, 235, 241), (161, 154, 192), (195, 180, 121), (127, 128, 172), (184, 130, 76), (18, 248, 171), (59, 125, 220), (213, 137, 96), (2, 29, 213), (206, 149, 128), (62, 21, 140), (173, 13, 240), (60, 96, 202), (7, 15, 59), (255, 0, 0)]
+2021-05-09 23:08:44,687 [DEBUG] Setting Prediction to 2, 29, 213
+2021-05-09 23:08:47,692 [DEBUG] Setting Prediction to 69, 235, 241
+2021-05-09 23:08:50,697 [DEBUG] Setting Prediction to 62, 21, 140
+2021-05-09 23:08:53,702 [DEBUG] Setting Prediction to 18, 248, 171
+2021-05-09 23:08:56,706 [DEBUG] Setting Prediction to 95, 92, 152
+2021-05-09 23:08:59,711 [DEBUG] Setting Prediction to 213, 137, 96
+2021-05-09 23:09:02,716 [DEBUG] Setting Prediction to 173, 13, 240
+2021-05-09 23:09:05,720 [DEBUG] Setting Prediction to 91, 160, 64
+2021-05-09 23:09:08,725 [DEBUG] Setting Prediction to 59, 125, 220
+2021-05-09 23:09:11,730 [DEBUG] Setting Prediction to 7, 15, 59
+2021-05-09 23:09:14,734 [DEBUG] Setting Prediction to 127, 128, 172
+2021-05-09 23:09:17,739 [DEBUG] Setting Prediction to 161, 154, 192
+2021-05-09 23:09:20,745 [DEBUG] Setting Prediction to 255, 0, 0
+2021-05-09 23:15:41,707 [INFO] Logger successfully initalised
+2021-05-09 23:15:41,721 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:15:41,732 [INFO] Running graphics
+2021-05-09 23:15:54,923 [INFO] Color sucessufully set to RGB value of 0,255,0
+2021-05-09 23:15:54,925 [DEBUG] Setting Goal to 0, 0, 255
+2021-05-09 23:15:54,936 [DEBUG] Random target set created for guessing: [(128, 159, 32), (127, 23, 196), (247, 58, 109), (9, 252, 102), (112, 42, 98), (5, 243, 27), (68, 164, 189), (18, 1, 31), (99, 97, 111), (78, 229, 198), (108, 7, 136), (7, 62, 213), (62, 10, 156), (144, 245, 2), (207, 32, 236), (102, 136, 225), (93, 60, 54), (189, 223, 215), (149, 107, 251), (0, 0, 255)]
+2021-05-09 23:15:54,938 [DEBUG] Setting Prediction to 0, 0, 255
+2021-05-09 23:16:58,442 [INFO] Logger successfully initalised
+2021-05-09 23:16:58,452 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:16:58,469 [INFO] Running graphics
+2021-05-09 23:17:05,231 [INFO] Color sucessufully set to RGB value of 0,255,0
+2021-05-09 23:17:05,236 [DEBUG] Setting Goal to 0, 0, 255
+2021-05-09 23:17:05,289 [DEBUG] Random target set created for guessing: [(199, 190, 36), (185, 246, 194), (134, 167, 51), (117, 155, 24), (106, 217, 133), (121, 107, 216), (243, 81, 92), (234, 0, 224), (28, 62, 184), (54, 56, 32), (161, 196, 37), (154, 188, 0), (25, 175, 46), (97, 61, 23), (183, 209, 13), (232, 113, 148), (99, 211, 180), (209, 247, 9), (34, 223, 171), (0, 0, 255)]
+2021-05-09 23:17:05,296 [DEBUG] Setting Prediction to 99, 211, 180
+2021-05-09 23:17:08,303 [DEBUG] Setting Prediction to 28, 62, 184
+2021-05-09 23:17:11,309 [DEBUG] Setting Prediction to 25, 175, 46
+2021-05-09 23:17:14,315 [DEBUG] Setting Prediction to 199, 190, 36
+2021-05-09 23:17:17,323 [DEBUG] Setting Prediction to 54, 56, 32
+2021-05-09 23:17:20,331 [DEBUG] Setting Prediction to 134, 167, 51
+2021-05-09 23:17:23,339 [DEBUG] Setting Prediction to 97, 61, 23
+2021-05-09 23:17:26,346 [DEBUG] Setting Prediction to 154, 188, 0
+2021-05-09 23:17:29,355 [DEBUG] Setting Prediction to 234, 0, 224
+2021-05-09 23:17:32,362 [DEBUG] Setting Prediction to 161, 196, 37
+2021-05-09 23:17:35,370 [DEBUG] Setting Prediction to 185, 246, 194
+2021-05-09 23:17:38,379 [DEBUG] Setting Prediction to 117, 155, 24
+2021-05-09 23:17:41,387 [DEBUG] Setting Prediction to 34, 223, 171
+2021-05-09 23:17:44,396 [DEBUG] Setting Prediction to 121, 107, 216
+2021-05-09 23:17:47,403 [DEBUG] Setting Prediction to 243, 81, 92
+2021-05-09 23:17:50,412 [DEBUG] Setting Prediction to 0, 0, 255
+2021-05-09 23:18:09,143 [INFO] Program exited successfully
+2021-05-09 23:24:43,783 [INFO] Logger successfully initalised
+2021-05-09 23:24:43,805 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:24:43,831 [INFO] Running graphics
+2021-05-09 23:24:49,823 [INFO] Color sucessufully set to RGB value of 0,255,255
+2021-05-09 23:24:49,828 [DEBUG] Setting Goal to 0, 255, 255
+2021-05-09 23:24:49,875 [DEBUG] Random target set created for guessing: [(116, 218, 230), (23, 89, 179), (123, 37, 61), (128, 191, 165), (78, 26, 247), (159, 130, 134), (205, 180, 108), (224, 205, 8), (75, 11, 70), (170, 17, 198), (15, 60, 236), (253, 145, 45), (67, 212, 72), (172, 63, 67), (230, 134, 30), (207, 16, 232), (26, 93, 26), (199, 223, 146), (40, 189, 243), (0, 255, 255)]
+2021-05-09 23:24:49,884 [DEBUG] Setting Prediction to 67, 212, 72
+2021-05-09 23:24:52,895 [DEBUG] Setting Prediction to 78, 26, 247
+2021-05-09 23:24:55,901 [DEBUG] Setting Prediction to 224, 205, 8
+2021-05-09 23:24:58,910 [DEBUG] Setting Prediction to 15, 60, 236
+2021-05-09 23:25:01,917 [DEBUG] Setting Prediction to 253, 145, 45
+2021-05-09 23:25:04,925 [DEBUG] Setting Prediction to 26, 93, 26
+2021-05-09 23:25:07,932 [DEBUG] Setting Prediction to 116, 218, 230
+2021-05-09 23:25:10,942 [DEBUG] Setting Prediction to 230, 134, 30
+2021-05-09 23:25:13,950 [DEBUG] Setting Prediction to 170, 17, 198
+2021-05-09 23:25:16,959 [DEBUG] Setting Prediction to 23, 89, 179
+2021-05-09 23:25:19,970 [DEBUG] Setting Prediction to 128, 191, 165
+2021-05-09 23:25:22,979 [DEBUG] Setting Prediction to 159, 130, 134
+2021-05-09 23:25:25,988 [DEBUG] Setting Prediction to 205, 180, 108
+2021-05-09 23:25:28,996 [DEBUG] Setting Prediction to 75, 11, 70
+2021-05-09 23:25:32,003 [DEBUG] Setting Prediction to 172, 63, 67
+2021-05-09 23:25:35,010 [DEBUG] Setting Prediction to 40, 189, 243
+2021-05-09 23:25:38,018 [DEBUG] Setting Prediction to 0, 255, 255
+2021-05-09 23:28:49,641 [INFO] Color sucessufully set to RGB value of 255,0,0
+2021-05-09 23:28:49,644 [DEBUG] Setting Goal to 255, 0, 0
+2021-05-09 23:28:49,646 [DEBUG] Random target set created for guessing: [(140, 44, 181), (132, 221, 188), (115, 104, 121), (45, 81, 50), (236, 43, 207), (60, 98, 184), (119, 46, 5), (130, 132, 135), (212, 2, 141), (201, 251, 109), (199, 156, 143), (19, 224, 224), (190, 152, 101), (91, 28, 170), (54, 99, 167), (219, 40, 35), (254, 160, 203), (202, 71, 61), (46, 31, 158), (255, 0, 0)]
+2021-05-09 23:28:49,648 [DEBUG] Setting Prediction to 54, 99, 167
+2021-05-09 23:28:52,653 [DEBUG] Setting Prediction to 201, 251, 109
+2021-05-09 23:28:55,657 [DEBUG] Setting Prediction to 132, 221, 188
+2021-05-09 23:28:58,662 [DEBUG] Setting Prediction to 130, 132, 135
+2021-05-09 23:29:01,667 [DEBUG] Setting Prediction to 60, 98, 184
+2021-05-09 23:29:04,671 [DEBUG] Setting Prediction to 236, 43, 207
+2021-05-09 23:29:07,676 [DEBUG] Setting Prediction to 115, 104, 121
+2021-05-09 23:29:10,679 [DEBUG] Setting Prediction to 219, 40, 35
+2021-05-09 23:29:13,684 [DEBUG] Setting Prediction to 140, 44, 181
+2021-05-09 23:29:16,689 [DEBUG] Setting Prediction to 202, 71, 61
+2021-05-09 23:29:19,693 [DEBUG] Setting Prediction to 255, 0, 0
+2021-05-09 23:34:54,998 [INFO] Program exited successfully
+2021-05-09 23:34:58,669 [INFO] Logger successfully initalised
+2021-05-09 23:34:58,681 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:34:58,692 [INFO] Running graphics
+2021-05-09 23:35:03,787 [INFO] Color sucessufully set to RGB value of 0,255,0
+2021-05-09 23:35:03,789 [DEBUG] Setting Goal to 0, 0, 255
+2021-05-09 23:35:03,804 [DEBUG] Random target set created for guessing: [(221, 190, 55), (55, 18, 14), (148, 125, 34), (121, 237, 68), (173, 6, 229), (115, 233, 185), (162, 31, 0), (170, 66, 243), (226, 191, 41), (233, 62, 113), (223, 141, 217), (253, 161, 1), (180, 102, 178), (205, 115, 132), (114, 129, 146), (247, 46, 37), (7, 89, 59), (87, 87, 191), (220, 109, 121), (0, 0, 255)]
+2021-05-09 23:35:03,806 [DEBUG] Setting Prediction to 247, 46, 37
+2021-05-09 23:35:06,811 [DEBUG] Setting Prediction to 87, 87, 191
+2021-05-09 23:35:09,815 [DEBUG] Setting Prediction to 223, 141, 217
+2021-05-09 23:35:12,820 [DEBUG] Setting Prediction to 220, 109, 121
+2021-05-09 23:35:15,824 [DEBUG] Setting Prediction to 121, 237, 68
+2021-05-09 23:35:18,829 [DEBUG] Setting Prediction to 233, 62, 113
+2021-05-09 23:35:21,832 [DEBUG] Setting Prediction to 114, 129, 146
+2021-05-09 23:35:24,837 [DEBUG] Setting Prediction to 7, 89, 59
+2021-05-09 23:35:27,842 [DEBUG] Setting Prediction to 221, 190, 55
+2021-05-09 23:35:30,846 [DEBUG] Setting Prediction to 226, 191, 41
+2021-05-09 23:35:33,851 [DEBUG] Setting Prediction to 205, 115, 132
+2021-05-09 23:35:36,855 [DEBUG] Setting Prediction to 162, 31, 0
+2021-05-09 23:35:39,860 [DEBUG] Setting Prediction to 0, 0, 255
+2021-05-09 23:35:57,707 [INFO] Program exited successfully
+2021-05-09 23:38:34,495 [INFO] Logger successfully initalised
+2021-05-09 23:38:34,504 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:38:34,520 [INFO] Running graphics
+2021-05-09 23:38:48,426 [INFO] Color sucessufully set to RGB value of 0,0,155
+2021-05-09 23:38:48,427 [DEBUG] Setting Goal to 0, 155, 0
+2021-05-09 23:38:48,440 [DEBUG] Random target set created for guessing: [(221, 174, 233), (86, 248, 86), (185, 3, 114), (223, 182, 247), (77, 249, 188), (247, 103, 58), (147, 7, 246), (47, 0, 125), (191, 109, 210), (91, 185, 62), (246, 138, 111), (166, 195, 251), (137, 136, 122), (119, 76, 85), (36, 62, 30), (162, 146, 17), (66, 16, 43), (134, 221, 168), (155, 129, 238), (0, 155, 0)]
+2021-05-09 23:38:48,449 [DEBUG] Setting Prediction to 36, 62, 30
+2021-05-09 23:38:51,454 [DEBUG] Setting Prediction to 221, 174, 233
+2021-05-09 23:38:54,459 [DEBUG] Setting Prediction to 47, 0, 125
+2021-05-09 23:38:57,464 [DEBUG] Setting Prediction to 246, 138, 111
+2021-05-09 23:39:00,468 [DEBUG] Setting Prediction to 0, 155, 0
+2021-05-09 23:39:29,928 [INFO] Color sucessufully set to RGB value of 100,100,100
+2021-05-09 23:39:29,930 [DEBUG] Setting Goal to 100, 100, 100
+2021-05-09 23:39:29,932 [DEBUG] Random target set created for guessing: [(226, 68, 167), (39, 151, 42), (254, 240, 8), (199, 190, 70), (223, 91, 61), (118, 163, 254), (29, 189, 47), (68, 127, 195), (88, 123, 62), (233, 214, 147), (176, 181, 181), (145, 69, 148), (184, 178, 2), (95, 31, 176), (161, 219, 76), (16, 141, 137), (17, 109, 251), (6, 100, 155), (78, 218, 223), (100, 100, 100)]
+2021-05-09 23:39:29,933 [DEBUG] Setting Prediction to 176, 181, 181
+2021-05-09 23:39:32,938 [DEBUG] Setting Prediction to 161, 219, 76
+2021-05-09 23:39:35,943 [DEBUG] Setting Prediction to 88, 123, 62
+2021-05-09 23:39:38,948 [DEBUG] Setting Prediction to 17, 109, 251
+2021-05-09 23:39:41,953 [DEBUG] Setting Prediction to 223, 91, 61
+2021-05-09 23:39:44,959 [DEBUG] Setting Prediction to 184, 178, 2
+2021-05-09 23:39:47,966 [DEBUG] Setting Prediction to 95, 31, 176
+2021-05-09 23:39:50,971 [DEBUG] Setting Prediction to 6, 100, 155
+2021-05-09 23:39:53,976 [DEBUG] Setting Prediction to 29, 189, 47
+2021-05-09 23:39:56,980 [DEBUG] Setting Prediction to 16, 141, 137
+2021-05-09 23:39:59,987 [DEBUG] Setting Prediction to 100, 100, 100
+2021-05-09 23:41:32,104 [INFO] Program exited successfully
+2021-05-09 23:42:36,606 [INFO] Logger successfully initalised
+2021-05-09 23:42:36,621 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:42:36,648 [INFO] Running graphics
+2021-05-09 23:42:47,065 [INFO] Color sucessufully set to RGB value of 120,0,155
+2021-05-09 23:42:47,066 [DEBUG] Setting Goal to 120, 155, 0
+2021-05-09 23:42:47,078 [DEBUG] Random target set created for guessing: [(20, 190, 175), (208, 125, 214), (68, 148, 26), (171, 157, 105), (33, 94, 184), (54, 68, 58), (142, 33, 94), (248, 219, 126), (201, 232, 86), (71, 238, 111), (227, 37, 3), (189, 134, 177), (213, 226, 190), (67, 240, 203), (37, 77, 253), (77, 251, 150), (152, 182, 149), (228, 80, 138), (92, 235, 153), (120, 155, 0)]
+2021-05-09 23:42:47,080 [DEBUG] Setting Prediction to 33, 94, 184
+2021-05-09 23:42:50,086 [DEBUG] Setting Prediction to 248, 219, 126
+2021-05-09 23:42:53,089 [DEBUG] Setting Prediction to 77, 251, 150
+2021-05-09 23:42:56,094 [DEBUG] Setting Prediction to 171, 157, 105
+2021-05-09 23:42:59,099 [DEBUG] Setting Prediction to 37, 77, 253
+2021-05-09 23:43:02,104 [DEBUG] Setting Prediction to 189, 134, 177
+2021-05-09 23:43:05,109 [DEBUG] Setting Prediction to 208, 125, 214
+2021-05-09 23:43:08,114 [DEBUG] Setting Prediction to 68, 148, 26
+2021-05-09 23:43:11,119 [DEBUG] Setting Prediction to 142, 33, 94
+2021-05-09 23:43:14,124 [DEBUG] Setting Prediction to 213, 226, 190
+2021-05-09 23:43:17,127 [DEBUG] Setting Prediction to 227, 37, 3
+2021-05-09 23:43:20,129 [DEBUG] Setting Prediction to 67, 240, 203
+2021-05-09 23:43:23,135 [DEBUG] Setting Prediction to 54, 68, 58
+2021-05-09 23:43:26,140 [DEBUG] Setting Prediction to 120, 155, 0
+2021-05-09 23:43:52,912 [INFO] Color sucessufully set to RGB value of 0,255,0
+2021-05-09 23:43:52,913 [DEBUG] Setting Goal to 0, 0, 255
+2021-05-09 23:43:52,914 [DEBUG] Random target set created for guessing: [(140, 61, 206), (198, 27, 34), (224, 88, 219), (251, 62, 171), (221, 234, 27), (249, 245, 199), (89, 214, 149), (56, 159, 252), (62, 53, 110), (102, 177, 42), (170, 73, 47), (68, 163, 194), (17, 135, 238), (64, 93, 226), (216, 144, 33), (91, 79, 196), (103, 28, 197), (52, 254, 211), (190, 14, 169), (0, 0, 255)]
+2021-05-09 23:43:52,916 [DEBUG] Setting Prediction to 221, 234, 27
+2021-05-09 23:43:55,922 [DEBUG] Setting Prediction to 0, 0, 255
+2021-05-09 23:53:50,992 [INFO] Logger successfully initalised
+2021-05-09 23:53:51,002 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:53:51,007 [INFO] Running graphics
+2021-05-09 23:54:00,572 [INFO] Color sucessufully set to RGB value of 0,255,0
+2021-05-09 23:54:00,573 [DEBUG] Setting Goal to 0, 0, 255
+2021-05-09 23:54:00,585 [DEBUG] Random target set created for guessing: [(132, 200, 130), (143, 93, 145), (109, 105, 64), (111, 159, 119), (52, 207, 197), (224, 149, 70), (165, 206, 106), (227, 211, 35), (180, 123, 204), (68, 98, 102), (102, 168, 212), (135, 188, 124), (100, 144, 29), (11, 118, 238), (198, 62, 58), (163, 28, 225), (47, 140, 57), (18, 126, 36), (105, 42, 186), (0, 0, 255)]
+2021-05-09 23:54:00,587 [DEBUG] Setting Prediction to 165, 206, 106
+2021-05-09 23:54:03,592 [DEBUG] Setting Prediction to 198, 62, 58
+2021-05-09 23:54:06,597 [DEBUG] Setting Prediction to 227, 211, 35
+2021-05-09 23:54:09,602 [DEBUG] Setting Prediction to 102, 168, 212
+2021-05-09 23:54:12,606 [DEBUG] Setting Prediction to 18, 126, 36
+2021-05-09 23:54:15,611 [DEBUG] Setting Prediction to 47, 140, 57
+2021-05-09 23:54:18,616 [DEBUG] Setting Prediction to 100, 144, 29
+2021-05-09 23:54:21,621 [DEBUG] Setting Prediction to 163, 28, 225
+2021-05-09 23:54:24,626 [DEBUG] Setting Prediction to 11, 118, 238
+2021-05-09 23:54:27,630 [DEBUG] Setting Prediction to 111, 159, 119
+2021-05-09 23:54:30,635 [DEBUG] Setting Prediction to 105, 42, 186
+2021-05-09 23:54:33,640 [DEBUG] Setting Prediction to 68, 98, 102
+2021-05-09 23:54:36,645 [DEBUG] Setting Prediction to 143, 93, 145
+2021-05-09 23:54:39,650 [DEBUG] Setting Prediction to 135, 188, 124
+2021-05-09 23:54:42,655 [DEBUG] Setting Prediction to 0, 0, 255
+2021-05-09 23:54:53,744 [INFO] Program exited successfully
+2021-05-09 23:56:39,624 [INFO] Logger successfully initalised
+2021-05-09 23:56:39,633 [DEBUG] Graphics instance successfully initalised
+2021-05-09 23:56:39,678 [INFO] Running graphics
+2021-05-09 23:56:44,680 [INFO] Color sucessufully set to RGB value of 120,200,140
+2021-05-09 23:56:44,680 [DEBUG] Setting Goal to 120, 140, 200
+2021-05-09 23:56:44,691 [DEBUG] Random target set created for guessing: [(217, 172, 191), (242, 31, 161), (134, 107, 112), (194, 111, 67), (36, 196, 233), (248, 210, 116), (56, 198, 240), (68, 121, 115), (24, 118, 138), (0, 156, 40), (184, 160, 221), (38, 215, 51), (23, 45, 123), (253, 208, 212), (79, 218, 50), (112, 228, 6), (35, 190, 237), (135, 13, 220), (53, 145, 243), (120, 140, 200)]
+2021-05-09 23:56:44,692 [DEBUG] Setting Prediction to 120, 140, 200
+2021-05-09 23:57:03,920 [INFO] Color sucessufully set to RGB value of 0,0,150
+2021-05-09 23:57:03,921 [DEBUG] Setting Goal to 0, 150, 0
+2021-05-09 23:57:03,922 [DEBUG] Random target set created for guessing: [(227, 135, 86), (224, 244, 148), (52, 106, 199), (228, 83, 53), (130, 129, 10), (100, 76, 164), (238, 175, 161), (169, 124, 122), (10, 140, 26), (41, 56, 137), (33, 30, 145), (77, 184, 229), (209, 134, 4), (63, 155, 195), (140, 225, 116), (241, 139, 124), (185, 128, 248), (36, 179, 74), (4, 148, 19), (0, 150, 0)]
+2021-05-09 23:57:03,922 [DEBUG] Setting Prediction to 77, 184, 229
+2021-05-09 23:57:06,927 [DEBUG] Setting Prediction to 0, 150, 0
+2021-05-09 23:57:18,911 [INFO] Color sucessufully set to RGB value of 120,120,0
+2021-05-09 23:57:18,913 [DEBUG] Setting Goal to 120, 0, 120
+2021-05-09 23:57:18,914 [DEBUG] Random target set created for guessing: [(121, 62, 81), (138, 74, 217), (19, 201, 181), (213, 242, 188), (227, 162, 46), (4, 102, 71), (84, 5, 145), (140, 79, 53), (23, 11, 204), (151, 188, 129), (69, 104, 161), (219, 135, 63), (187, 241, 54), (246, 252, 103), (39, 129, 243), (194, 228, 61), (185, 103, 11), (8, 41, 18), (238, 115, 137), (120, 0, 120)]
+2021-05-09 23:57:18,915 [DEBUG] Setting Prediction to 4, 102, 71
+2021-05-09 23:57:21,919 [DEBUG] Setting Prediction to 140, 79, 53
+2021-05-09 23:57:24,924 [DEBUG] Setting Prediction to 194, 228, 61
+2021-05-09 23:57:27,928 [DEBUG] Setting Prediction to 238, 115, 137
+2021-05-09 23:57:30,933 [DEBUG] Setting Prediction to 138, 74, 217
+2021-05-09 23:57:33,938 [DEBUG] Setting Prediction to 8, 41, 18
+2021-05-09 23:57:36,943 [DEBUG] Setting Prediction to 39, 129, 243
+2021-05-09 23:57:39,947 [DEBUG] Setting Prediction to 227, 162, 46
+2021-05-09 23:57:42,952 [DEBUG] Setting Prediction to 23, 11, 204
+2021-05-09 23:57:45,957 [DEBUG] Setting Prediction to 121, 62, 81
+2021-05-09 23:57:48,961 [DEBUG] Setting Prediction to 69, 104, 161
+2021-05-09 23:57:51,966 [DEBUG] Setting Prediction to 246, 252, 103
+2021-05-09 23:57:54,972 [DEBUG] Setting Prediction to 19, 201, 181
+2021-05-09 23:57:57,976 [DEBUG] Setting Prediction to 219, 135, 63
+2021-05-09 23:58:00,981 [DEBUG] Setting Prediction to 185, 103, 11
+2021-05-09 23:58:03,986 [DEBUG] Setting Prediction to 151, 188, 129
+2021-05-09 23:58:06,991 [DEBUG] Setting Prediction to 213, 242, 188
+2021-05-09 23:58:09,996 [DEBUG] Setting Prediction to 187, 241, 54
+2021-05-09 23:58:13,001 [DEBUG] Setting Prediction to 84, 5, 145
+2021-05-09 23:58:16,005 [DEBUG] Setting Prediction to 120, 0, 120
+2021-05-10 00:00:03,851 [INFO] Program exited successfully
+2021-05-10 00:02:30,742 [INFO] Logger successfully initialised
+2021-05-10 00:02:30,753 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:02:30,758 [INFO] Running graphics
+2021-05-10 00:02:41,569 [INFO] Color successfully set to RGB value of 120,120,0
+2021-05-10 00:02:41,571 [DEBUG] Setting Goal to 120, 0, 120
+2021-05-10 00:04:12,351 [INFO] Logger successfully initialised
+2021-05-10 00:04:12,360 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:04:12,366 [INFO] Running graphics
+2021-05-10 00:04:15,744 [INFO] Color successfully set to RGB value of 120,120,0
+2021-05-10 00:04:15,745 [DEBUG] Setting Goal to 120, 0, 120
+2021-05-10 00:04:56,863 [INFO] Logger successfully initialised
+2021-05-10 00:04:56,873 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:04:56,885 [INFO] Running graphics
+2021-05-10 00:04:59,177 [INFO] Color successfully set to RGB value of 120,120,0
+2021-05-10 00:04:59,179 [DEBUG] Setting Goal to 120, 0, 120
+2021-05-10 00:04:59,179 [DEBUG] Drawing LED rectangle with x1 (5), x2 (7), y1 (23), y2 (26) and colour (<rgbmatrix.graphics.Color object at 0x760a8500>).
+2021-05-10 00:04:59,191 [DEBUG] Random target set created for guessing: [(26, 124, 213), (53, 109, 241), (22, 155, 82), (246, 128, 210), (159, 108, 223), (168, 241, 39), (253, 9, 32), (191, 72, 121), (162, 166, 245), (155, 78, 46), (144, 77, 250), (10, 236, 220), (139, 198, 146), (21, 55, 158), (164, 172, 249), (110, 213, 196), (248, 62, 201), (160, 196, 207), (86, 168, 176), (120, 0, 120)]
+2021-05-10 00:04:59,192 [DEBUG] Setting Prediction to 120, 0, 120
+2021-05-10 00:12:26,706 [INFO] Logger successfully initalised
+2021-05-10 00:12:26,719 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:12:26,726 [INFO] Running graphics
+2021-05-10 00:12:35,287 [INFO] Logger successfully initalised
+2021-05-10 00:12:35,300 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:12:35,306 [INFO] Running graphics
+2021-05-10 00:12:38,785 [INFO] Colour successfully set to RGB value of 0,0,50
+2021-05-10 00:12:38,786 [DEBUG] Setting Goal to 0, 50, 0
+2021-05-10 00:12:38,798 [DEBUG] Random target set created for guessing: [(248, 39, 35), (187, 203, 100), (203, 88, 46), (226, 188, 188), (148, 141, 172), (147, 21, 190), (100, 126, 94), (175, 180, 14), (211, 182, 102), (37, 194, 3), (85, 85, 110), (1, 218, 65), (58, 252, 140), (125, 90, 21), (47, 216, 55), (9, 152, 83), (101, 149, 154), (50, 62, 195), (155, 105, 131), (0, 50, 0)]
+2021-05-10 00:12:38,799 [DEBUG] Setting Prediction to 47, 216, 55
+2021-05-10 00:12:41,805 [DEBUG] Setting Prediction to 226, 188, 188
+2021-05-10 00:12:44,810 [DEBUG] Setting Prediction to 9, 152, 83
+2021-05-10 00:12:47,815 [DEBUG] Setting Prediction to 248, 39, 35
+2021-05-10 00:12:50,820 [DEBUG] Setting Prediction to 187, 203, 100
+2021-05-10 00:12:53,824 [DEBUG] Setting Prediction to 148, 141, 172
+2021-05-10 00:12:56,829 [DEBUG] Setting Prediction to 155, 105, 131
+2021-05-10 00:12:59,834 [DEBUG] Setting Prediction to 1, 218, 65
+2021-05-10 00:13:02,839 [DEBUG] Setting Prediction to 0, 50, 0
+2021-05-10 00:19:45,774 [INFO] Logger successfully initalised
+2021-05-10 00:19:45,786 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:19:45,793 [INFO] Running graphics
+2021-05-10 00:21:19,110 [INFO] Logger successfully initalised
+2021-05-10 00:21:19,121 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:21:19,138 [INFO] Running graphics
+2021-05-10 00:21:22,913 [INFO] Colour successfully set to RGB value of 0,0,80
+2021-05-10 00:21:22,914 [DEBUG] Setting Goal to 0, 80, 0
+2021-05-10 00:21:22,934 [DEBUG] Random target set created for guessing: [(207, 237, 87), (4, 43, 3), (166, 29, 45), (129, 217, 180), (241, 167, 32), (23, 107, 168), (183, 19, 230), (115, 74, 9), (103, 225, 245), (67, 50, 37), (35, 147, 62), (110, 57, 74), (10, 86, 202), (248, 125, 123), (145, 42, 105), (227, 179, 218), (111, 52, 108), (126, 79, 159), (58, 231, 243), (0, 80, 0)]
+2021-05-10 00:21:22,935 [DEBUG] Setting Prediction to 10, 86, 202
+2021-05-10 00:21:25,940 [DEBUG] Setting Prediction to 129, 217, 180
+2021-05-10 00:21:28,945 [DEBUG] Setting Prediction to 183, 19, 230
+2021-05-10 00:21:31,950 [DEBUG] Setting Prediction to 23, 107, 168
+2021-05-10 00:21:34,955 [DEBUG] Setting Prediction to 35, 147, 62
+2021-05-10 00:21:37,960 [DEBUG] Setting Prediction to 103, 225, 245
+2021-05-10 00:21:40,966 [DEBUG] Setting Prediction to 248, 125, 123
+2021-05-10 00:21:43,971 [DEBUG] Setting Prediction to 58, 231, 243
+2021-05-10 00:21:46,976 [DEBUG] Setting Prediction to 110, 57, 74
+2021-05-10 00:21:49,981 [DEBUG] Setting Prediction to 115, 74, 9
+2021-05-10 00:21:52,986 [DEBUG] Setting Prediction to 227, 179, 218
+2021-05-10 00:21:55,992 [DEBUG] Setting Prediction to 111, 52, 108
+2021-05-10 00:21:58,996 [DEBUG] Setting Prediction to 4, 43, 3
+2021-05-10 00:22:02,001 [DEBUG] Setting Prediction to 145, 42, 105
+2021-05-10 00:22:05,006 [DEBUG] Setting Prediction to 0, 80, 0
+2021-05-10 00:25:51,549 [INFO] Logger successfully initalised
+2021-05-10 00:25:51,565 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:25:51,571 [INFO] Running graphics
+2021-05-10 00:26:50,514 [INFO] Logger successfully initalised
+2021-05-10 00:26:50,526 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:26:50,544 [INFO] Running graphics
+2021-05-10 00:26:55,818 [INFO] Colour successfully set to RGB value of 120,120,0
+2021-05-10 00:26:55,822 [DEBUG] Setting Goal to 120, 0, 120
+2021-05-10 00:26:55,868 [DEBUG] Random target set created for guessing: [(208, 3, 47), (188, 171, 10), (190, 28, 52), (146, 223, 114), (71, 192, 131), (142, 125, 209), (181, 161, 9), (100, 143, 205), (0, 50, 170), (134, 187, 120), (129, 16, 26), (191, 178, 99), (28, 21, 132), (111, 89, 173), (216, 42, 32), (62, 118, 109), (183, 49, 149), (131, 60, 163), (21, 59, 65), (120, 0, 120)]
+2021-05-10 00:26:55,878 [DEBUG] Setting Prediction to 216, 42, 32
+2021-05-10 00:26:58,897 [DEBUG] Setting Prediction to 21, 59, 65
+2021-05-10 00:27:01,903 [DEBUG] Setting Prediction to 183, 49, 149
+2021-05-10 00:27:04,907 [DEBUG] Setting Prediction to 100, 143, 205
+2021-05-10 00:27:07,912 [DEBUG] Setting Prediction to 28, 21, 132
+2021-05-10 00:27:10,917 [DEBUG] Setting Prediction to 190, 28, 52
+2021-05-10 00:27:13,922 [DEBUG] Setting Prediction to 188, 171, 10
+2021-05-10 00:27:16,927 [DEBUG] Setting Prediction to 120, 0, 120
+2021-05-10 00:29:52,988 [INFO] Logger successfully initalised
+2021-05-10 00:29:53,002 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:29:53,010 [INFO] Running graphics
+2021-05-10 00:29:57,152 [INFO] Colour successfully set to RGB value of 0,100,100
+2021-05-10 00:29:57,153 [DEBUG] Setting Goal to 0, 100, 100
+2021-05-10 00:29:57,164 [DEBUG] Random target set created for guessing: [(110, 151, 35), (169, 41, 53), (179, 23, 210), (74, 130, 90), (225, 85, 30), (59, 107, 37), (198, 200, 69), (6, 27, 221), (83, 158, 76), (206, 205, 246), (72, 33, 99), (171, 179, 4), (157, 51, 68), (252, 26, 192), (129, 25, 128), (191, 77, 105), (101, 2, 86), (3, 5, 111), (111, 235, 48), (0, 100, 100)]
+2021-05-10 00:29:57,166 [DEBUG] Setting Prediction to 191, 77, 105
+2021-05-10 00:30:00,172 [DEBUG] Setting Prediction to 0, 100, 100
+2021-05-10 00:38:52,979 [INFO] Logger successfully initalised
+2021-05-10 00:38:52,992 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:38:52,999 [INFO] Running graphics
+2021-05-10 00:38:57,001 [INFO] Colour successfully set to RGB value of 90,90,100
+2021-05-10 00:38:57,002 [DEBUG] Setting Goal to 90, 100, 90
+2021-05-10 00:38:57,022 [DEBUG] Random target set created for guessing: [(183, 225, 192), (129, 31, 210), (246, 200, 245), (237, 93, 185), (221, 178, 50), (107, 176, 116), (118, 205, 126), (108, 188, 4), (193, 14, 140), (154, 15, 153), (127, 230, 196), (231, 34, 25), (6, 106, 220), (185, 245, 101), (48, 221, 229), (102, 124, 63), (179, 17, 221), (241, 117, 95), (19, 228, 28), (90, 100, 90)]
+2021-05-10 00:38:57,024 [DEBUG] Setting Prediction to 193, 14, 140
+2021-05-10 00:39:00,029 [DEBUG] Setting Prediction to 6, 106, 220
+2021-05-10 00:39:03,034 [DEBUG] Setting Prediction to 231, 34, 25
+2021-05-10 00:39:06,037 [DEBUG] Setting Prediction to 183, 225, 192
+2021-05-10 00:39:09,042 [DEBUG] Setting Prediction to 129, 31, 210
+2021-05-10 00:43:17,890 [INFO] Logger successfully initalised
+2021-05-10 00:43:17,901 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:43:17,918 [INFO] Running graphics
+2021-05-10 00:43:21,569 [INFO] Colour successfully set to RGB value of 100,100,0
+2021-05-10 00:43:21,570 [DEBUG] Setting Goal to 100, 0, 100
+2021-05-10 00:43:21,589 [DEBUG] Random target set created for guessing: [(52, 61, 162), (49, 168, 126), (196, 112, 54), (193, 103, 237), (242, 24, 239), (21, 36, 253), (253, 216, 96), (158, 244, 102), (128, 131, 94), (249, 137, 16), (18, 8, 104), (166, 153, 233), (68, 214, 82), (213, 138, 123), (142, 125, 213), (233, 182, 185), (78, 12, 132), (186, 22, 252), (210, 246, 45), (100, 0, 100)]
+2021-05-10 00:43:21,591 [DEBUG] Setting Prediction to 78, 12, 132
+2021-05-10 00:43:24,596 [DEBUG] Setting Prediction to 253, 216, 96
+2021-05-10 00:43:43,687 [INFO] Logger successfully initalised
+2021-05-10 00:43:43,703 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:43:43,718 [INFO] Running graphics
+2021-05-10 00:43:47,801 [INFO] Colour successfully set to RGB value of 90,90,0
+2021-05-10 00:43:47,802 [DEBUG] Setting Goal to 90, 0, 90
+2021-05-10 00:43:47,818 [DEBUG] Random target set created for guessing: [(36, 111, 121), (200, 178, 34), (224, 129, 240), (104, 192, 181), (146, 30, 189), (118, 251, 197), (62, 201, 26), (34, 254, 203), (186, 253, 9), (178, 45, 173), (18, 16, 87), (249, 130, 91), (125, 66, 122), (177, 53, 126), (19, 182, 146), (29, 5, 206), (55, 9, 183), (99, 120, 228), (30, 126, 109), (90, 0, 90)]
+2021-05-10 00:43:47,820 [DEBUG] Setting Prediction to 178, 45, 173
+2021-05-10 00:43:50,826 [DEBUG] Setting Prediction to 224, 129, 240
+2021-05-10 00:44:36,849 [INFO] Logger successfully initalised
+2021-05-10 00:44:36,863 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:44:36,871 [INFO] Running graphics
+2021-05-10 00:44:39,557 [INFO] Colour successfully set to RGB value of 100,100,0
+2021-05-10 00:44:39,559 [DEBUG] Setting Goal to 100, 0, 100
+2021-05-10 00:44:39,570 [DEBUG] Random target set created for guessing: [(72, 54, 203), (20, 181, 211), (91, 122, 63), (22, 95, 106), (19, 232, 140), (247, 99, 25), (192, 246, 180), (158, 150, 213), (54, 155, 223), (13, 59, 179), (244, 5, 165), (157, 55, 96), (140, 109, 191), (209, 114, 59), (114, 90, 91), (86, 184, 134), (205, 201, 200), (124, 217, 105), (167, 48, 227), (100, 0, 100)]
+2021-05-10 00:44:39,571 [DEBUG] Setting Prediction to 54, 155, 223
+2021-05-10 00:44:42,576 [DEBUG] Setting Prediction to 158, 150, 213
+2021-05-10 00:47:04,622 [INFO] Logger successfully initalised
+2021-05-10 00:47:04,644 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:47:04,651 [INFO] Running graphics
+2021-05-10 00:47:07,750 [INFO] Colour successfully set to RGB value of 0,100,100
+2021-05-10 00:47:07,751 [DEBUG] Setting Goal to 0, 100, 100
+2021-05-10 00:47:07,767 [DEBUG] Random target set created for guessing: [(230, 45, 204), (213, 224, 129), (3, 101, 65), (53, 208, 154), (159, 205, 181), (44, 78, 149), (67, 236, 127), (140, 175, 110), (15, 79, 46), (49, 225, 24), (60, 108, 171), (88, 177, 37), (22, 39, 85), (97, 50, 189), (143, 28, 87), (160, 62, 10), (222, 98, 40), (237, 40, 166), (137, 244, 187), (0, 100, 100)]
+2021-05-10 00:47:07,769 [DEBUG] Setting Prediction to 137, 244, 187
+2021-05-10 00:47:10,774 [DEBUG] Setting Prediction to 49, 225, 24
+2021-05-10 00:47:44,487 [INFO] Logger successfully initalised
+2021-05-10 00:47:44,505 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:47:44,517 [INFO] Running graphics
+2021-05-10 00:47:51,188 [INFO] Logger successfully initalised
+2021-05-10 00:47:51,198 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:47:51,212 [INFO] Running graphics
+2021-05-10 00:47:53,689 [INFO] Colour successfully set to RGB value of 90,90,10
+2021-05-10 00:47:53,690 [DEBUG] Setting Goal to 90, 10, 90
+2021-05-10 00:47:53,702 [DEBUG] Random target set created for guessing: [(196, 215, 207), (21, 160, 130), (239, 201, 80), (147, 87, 167), (90, 123, 131), (242, 37, 93), (212, 49, 209), (0, 167, 51), (249, 81, 234), (166, 80, 99), (253, 102, 191), (54, 35, 153), (139, 8, 202), (137, 73, 73), (123, 234, 136), (236, 7, 24), (82, 206, 171), (221, 189, 92), (80, 153, 170), (90, 10, 90)]
+2021-05-10 00:47:53,703 [DEBUG] Setting Prediction to 239, 201, 80
+2021-05-10 00:47:56,706 [DEBUG] Setting Prediction to 249, 81, 234
+2021-05-10 00:47:59,711 [DEBUG] Setting Prediction to 212, 49, 209
+2021-05-10 00:48:47,496 [INFO] Logger successfully initalised
+2021-05-10 00:48:47,508 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:48:47,527 [INFO] Running graphics
+2021-05-10 00:48:50,030 [INFO] Colour successfully set to RGB value of 100,100,0
+2021-05-10 00:48:50,031 [DEBUG] Setting Goal to 100, 0, 100
+2021-05-10 00:48:50,042 [DEBUG] Random target set created for guessing: [(33, 235, 176), (161, 219, 239), (46, 165, 20), (186, 25, 76), (60, 103, 69), (238, 242, 93), (67, 231, 160), (106, 236, 156), (135, 253, 79), (93, 12, 142), (92, 64, 209), (55, 243, 40), (124, 24, 31), (225, 202, 66), (231, 122, 138), (239, 230, 9), (48, 128, 148), (180, 172, 88), (43, 245, 191), (100, 0, 100)]
+2021-05-10 00:48:50,044 [DEBUG] Setting Prediction to 55, 243, 40
+2021-05-10 00:48:53,050 [DEBUG] Setting Prediction to 43, 245, 191
+2021-05-10 00:48:56,056 [DEBUG] Setting Prediction to 161, 219, 239
+2021-05-10 00:48:59,061 [DEBUG] Setting Prediction to 46, 165, 20
+2021-05-10 00:49:41,017 [INFO] Logger successfully initalised
+2021-05-10 00:49:41,030 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:49:41,037 [INFO] Running graphics
+2021-05-10 00:49:45,464 [INFO] Colour successfully set to RGB value of 0,200,30
+2021-05-10 00:49:45,465 [DEBUG] Setting Goal to 0, 30, 200
+2021-05-10 00:49:45,476 [DEBUG] Random target set created for guessing: [(62, 44, 205), (29, 23, 198), (187, 175, 74), (145, 22, 42), (179, 81, 168), (186, 253, 160), (59, 5, 9), (87, 40, 11), (252, 176, 121), (99, 43, 70), (128, 158, 123), (154, 55, 138), (137, 46, 50), (61, 236, 161), (204, 186, 60), (122, 87, 122), (123, 209, 23), (203, 8, 65), (150, 181, 197), (0, 30, 200)]
+2021-05-10 00:49:45,478 [DEBUG] Setting Prediction to 61, 236, 161
+2021-05-10 00:49:48,483 [DEBUG] Setting Prediction to 187, 175, 74
+2021-05-10 00:49:51,488 [DEBUG] Setting Prediction to 99, 43, 70
+2021-05-10 00:49:54,493 [DEBUG] Setting Prediction to 203, 8, 65
+2021-05-10 00:49:57,498 [DEBUG] Setting Prediction to 59, 5, 9
+2021-05-10 00:50:00,501 [DEBUG] Setting Prediction to 128, 158, 123
+2021-05-10 00:50:03,506 [DEBUG] Setting Prediction to 62, 44, 205
+2021-05-10 00:50:06,510 [DEBUG] Setting Prediction to 150, 181, 197
+2021-05-10 00:50:09,515 [DEBUG] Setting Prediction to 87, 40, 11
+2021-05-10 00:50:12,520 [DEBUG] Setting Prediction to 154, 55, 138
+2021-05-10 00:50:15,525 [DEBUG] Setting Prediction to 0, 30, 200
+2021-05-10 00:52:03,912 [INFO] Logger successfully initalised
+2021-05-10 00:52:03,925 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:52:03,932 [INFO] Running graphics
+2021-05-10 00:52:09,512 [INFO] Colour successfully set to RGB value of 100,100,200
+2021-05-10 00:52:09,513 [DEBUG] Setting Goal to 100, 200, 100
+2021-05-10 00:52:09,525 [DEBUG] Random target set created for guessing: [(85, 89, 227), (90, 174, 166), (252, 160, 101), (23, 168, 27), (5, 200, 233), (176, 124, 132), (83, 95, 5), (182, 68, 160), (82, 181, 31), (142, 236, 229), (89, 245, 76), (17, 54, 179), (247, 243, 204), (253, 122, 170), (206, 14, 43), (117, 65, 80), (244, 163, 33), (11, 204, 235), (151, 104, 112), (100, 200, 100)]
+2021-05-10 00:52:09,528 [DEBUG] Setting Prediction to 142, 236, 229
+2021-05-10 00:52:29,350 [INFO] Logger successfully initalised
+2021-05-10 00:52:29,360 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:52:29,365 [INFO] Running graphics
+2021-05-10 00:52:32,760 [INFO] Colour successfully set to RGB value of 50,50,0
+2021-05-10 00:52:32,760 [DEBUG] Setting Goal to 50, 0, 50
+2021-05-10 00:52:32,772 [DEBUG] Random target set created for guessing: [(31, 85, 5), (124, 172, 194), (138, 2, 81), (232, 153, 201), (28, 177, 121), (182, 103, 247), (231, 222, 179), (166, 66, 51), (224, 1, 74), (33, 84, 155), (208, 121, 170), (115, 44, 241), (73, 238, 245), (145, 253, 23), (89, 8, 226), (20, 163, 98), (243, 134, 233), (181, 41, 83), (159, 233, 234), (50, 0, 50)]
+2021-05-10 00:52:32,773 [DEBUG] Setting Prediction to 33, 84, 155
+2021-05-10 00:52:35,778 [DEBUG] Setting Prediction to 50, 0, 50
+2021-05-10 00:52:45,087 [INFO] Logger successfully initalised
+2021-05-10 00:52:45,098 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:52:45,104 [INFO] Running graphics
+2021-05-10 00:52:48,360 [INFO] Colour successfully set to RGB value of 100,100,0
+2021-05-10 00:52:48,361 [DEBUG] Setting Goal to 100, 0, 100
+2021-05-10 00:52:48,373 [DEBUG] Random target set created for guessing: [(153, 160, 88), (42, 40, 17), (132, 152, 242), (190, 137, 87), (125, 97, 98), (35, 245, 56), (3, 202, 204), (196, 161, 30), (50, 253, 18), (67, 30, 105), (182, 251, 137), (206, 173, 235), (58, 180, 111), (140, 98, 147), (137, 84, 236), (152, 163, 172), (12, 135, 7), (111, 223, 67), (139, 25, 215), (100, 0, 100)]
+2021-05-10 00:52:48,375 [DEBUG] Setting Prediction to 111, 223, 67
+2021-05-10 00:52:51,380 [DEBUG] Setting Prediction to 3, 202, 204
+2021-05-10 00:52:54,385 [DEBUG] Setting Prediction to 58, 180, 111
+2021-05-10 00:54:28,073 [INFO] Logger successfully initalised
+2021-05-10 00:54:28,090 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:54:28,097 [INFO] Running graphics
+2021-05-10 00:54:32,072 [INFO] Colour successfully set to RGB value of 100,100,50
+2021-05-10 00:54:32,073 [DEBUG] Setting Goal to 100, 50, 100
+2021-05-10 00:54:32,094 [DEBUG] Random target set created for guessing: [(91, 241, 42), (226, 125, 205), (103, 231, 202), (110, 164, 171), (68, 1, 51), (253, 159, 100), (62, 82, 24), (238, 122, 90), (143, 17, 248), (96, 178, 59), (5, 179, 241), (142, 88, 79), (159, 93, 75), (65, 186, 26), (234, 215, 38), (194, 83, 237), (136, 96, 36), (193, 244, 72), (4, 84, 50), (100, 50, 100)]
+2021-05-10 00:54:32,095 [DEBUG] Setting Prediction to 110, 164, 171
+2021-05-10 00:54:35,101 [DEBUG] Setting Prediction to 159, 93, 75
+2021-05-10 00:54:38,105 [DEBUG] Setting Prediction to 4, 84, 50
+2021-05-10 00:54:41,110 [DEBUG] Setting Prediction to 234, 215, 38
+2021-05-10 00:54:44,115 [DEBUG] Setting Prediction to 96, 178, 59
+2021-05-10 00:54:47,121 [DEBUG] Setting Prediction to 65, 186, 26
+2021-05-10 00:54:50,126 [DEBUG] Setting Prediction to 143, 17, 248
+2021-05-10 00:54:53,131 [DEBUG] Setting Prediction to 100, 50, 100
+2021-05-10 00:55:02,222 [INFO] Colour successfully set to RGB value of 0,255,0
+2021-05-10 00:55:02,224 [DEBUG] Setting Goal to 0, 0, 255
+2021-05-10 00:55:02,227 [DEBUG] Random target set created for guessing: [(26, 254, 119), (242, 89, 59), (238, 110, 217), (208, 163, 250), (119, 166, 158), (88, 84, 16), (170, 240, 76), (19, 16, 142), (175, 115, 244), (202, 148, 49), (251, 236, 114), (131, 9, 138), (20, 30, 107), (151, 137, 162), (253, 142, 147), (241, 145, 139), (176, 213, 42), (40, 63, 90), (212, 189, 232), (0, 0, 255)]
+2021-05-10 00:55:02,229 [DEBUG] Setting Prediction to 151, 137, 162
+2021-05-10 00:55:05,234 [DEBUG] Setting Prediction to 0, 0, 255
+2021-05-10 00:56:26,699 [INFO] Logger successfully initalised
+2021-05-10 00:56:26,717 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:56:26,725 [INFO] Running graphics
+2021-05-10 00:56:29,701 [INFO] Colour successfully set to RGB value of 50,0,0
+2021-05-10 00:57:20,794 [INFO] Logger successfully initalised
+2021-05-10 00:57:20,807 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:57:20,814 [INFO] Running graphics
+2021-05-10 00:57:23,666 [INFO] Colour successfully set to RGB value of 50,0,0
+2021-05-10 00:57:52,546 [INFO] Logger successfully initalised
+2021-05-10 00:57:52,563 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:57:52,578 [INFO] Running graphics
+2021-05-10 00:57:54,471 [INFO] Colour successfully set to RGB value of 50,0,0
+2021-05-10 00:58:16,754 [INFO] Logger successfully initalised
+2021-05-10 00:58:16,763 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:58:16,785 [INFO] Running graphics
+2021-05-10 00:58:18,724 [INFO] Colour successfully set to RGB value of 50,0,0
+2021-05-10 00:58:18,728 [DEBUG] Setting Goal to 50, 0, 0
+2021-05-10 00:58:32,270 [INFO] Logger successfully initalised
+2021-05-10 00:58:32,286 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:58:32,303 [INFO] Running graphics
+2021-05-10 00:58:33,916 [INFO] Colour successfully set to RGB value of 50,0,0
+2021-05-10 00:58:33,920 [DEBUG] Setting Goal to 50, 0, 0
+2021-05-10 00:58:59,934 [INFO] Logger successfully initalised
+2021-05-10 00:58:59,947 [DEBUG] Graphics instance successfully initalised
+2021-05-10 00:58:59,967 [INFO] Running graphics
+2021-05-10 00:59:02,467 [INFO] Colour successfully set to RGB value of 50,0,0
+2021-05-10 00:59:02,468 [DEBUG] Setting Goal to 50, 0, 0
+2021-05-10 00:59:02,480 [DEBUG] Random target set created for guessing: [(6, 254, 162), (235, 106, 144), (164, 150, 237), (247, 233, 132), (78, 33, 210), (34, 188, 70), (216, 117, 236), (1, 18, 54), (124, 246, 155), (212, 206, 195), (253, 122, 198), (146, 85, 35), (50, 113, 89), (131, 16, 139), (14, 31, 193), (2, 79, 82), (60, 37, 71), (170, 41, 80), (110, 39, 168), (50, 0, 0)]
+2021-05-10 00:59:02,482 [DEBUG] Setting Prediction to 2, 79, 82
+2021-05-10 00:59:05,487 [DEBUG] Setting Prediction to 60, 37, 71
+2021-05-10 00:59:08,493 [DEBUG] Setting Prediction to 216, 117, 236
+2021-05-10 00:59:11,497 [DEBUG] Setting Prediction to 124, 246, 155
+2021-05-10 01:06:06,257 [INFO] Logger successfully initialised
+2021-05-10 01:06:06,269 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:06:06,279 [INFO] Running graphics
+2021-05-10 01:06:10,299 [INFO] Colour successfully set to RGB value of 0,100,100
+2021-05-10 01:06:10,301 [DEBUG] Setting Goal to 0, 100, 100
+2021-05-10 01:06:10,314 [DEBUG] Random target set created for guessing: [(183, 212, 131), (29, 184, 186), (203, 224, 188), (68, 31, 198), (79, 110, 241), (134, 43, 222), (97, 94, 166), (67, 233, 190), (70, 107, 25), (237, 183, 9), (76, 69, 122), (136, 127, 244), (148, 179, 23), (195, 139, 254), (180, 174, 142), (204, 27, 67), (214, 42, 137), (15, 162, 116), (150, 177, 70), (0, 100, 100)]
+2021-05-10 01:06:10,316 [DEBUG] Setting Prediction to 214, 42, 137
+2021-05-10 01:06:13,321 [DEBUG] Setting Prediction to 67, 233, 190
+2021-05-10 01:06:16,326 [DEBUG] Setting Prediction to 203, 224, 188
+2021-05-10 01:06:19,331 [DEBUG] Setting Prediction to 150, 177, 70
+2021-05-10 01:06:22,336 [DEBUG] Setting Prediction to 15, 162, 116
+2021-05-10 01:06:25,341 [DEBUG] Setting Prediction to 237, 183, 9
+2021-05-10 01:06:28,346 [DEBUG] Setting Prediction to 204, 27, 67
+2021-05-10 01:06:31,351 [DEBUG] Setting Prediction to 79, 110, 241
+2021-05-10 01:15:06,092 [INFO] Logger successfully initialised
+2021-05-10 01:15:06,111 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:15:06,123 [INFO] Running graphics
+2021-05-10 01:15:08,761 [INFO] Colour successfully set to RGB value of 80,80,0
+2021-05-10 01:15:08,762 [DEBUG] Setting Goal to 80, 0, 80
+2021-05-10 01:15:35,795 [INFO] Logger successfully initialised
+2021-05-10 01:15:35,805 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:15:35,811 [INFO] Running graphics
+2021-05-10 01:15:37,953 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:15:37,954 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:15:47,600 [INFO] Logger successfully initialised
+2021-05-10 01:15:47,609 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:15:47,617 [INFO] Running graphics
+2021-05-10 01:15:49,549 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:15:49,551 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:15:49,750 [DEBUG] Random target set created for guessing: [(39, 112, 161), (90, 108, 42), (236, 53, 185), (244, 178, 113), (85, 185, 41), (241, 122, 148), (246, 182, 54), (165, 1, 143), (9, 56, 70), (213, 117, 49), (136, 21, 82), (164, 88, 144), (108, 187, 224), (152, 121, 160), (182, 163, 169), (142, 130, 229), (6, 176, 225), (204, 79, 139), (168, 234, 210), (80, 0, 0)]
+2021-05-10 01:15:49,752 [DEBUG] Setting Prediction to 9, 56, 70
+2021-05-10 01:15:52,757 [DEBUG] Setting Prediction to 108, 187, 224
+2021-05-10 01:15:55,762 [DEBUG] Setting Prediction to 85, 185, 41
+2021-05-10 01:18:46,970 [INFO] Logger successfully initialised
+2021-05-10 01:18:46,986 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:18:46,992 [INFO] Running graphics
+2021-05-10 01:18:49,689 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:18:49,690 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:18:49,885 [DEBUG] Random target set created for guessing: [(123, 218, 178), (68, 75, 78), (210, 243, 183), (160, 220, 210), (98, 231, 57), (94, 239, 73), (233, 238, 226), (21, 130, 46), (159, 127, 197), (247, 8, 180), (186, 206, 194), (188, 21, 184), (190, 51, 93), (54, 58, 44), (157, 189, 69), (145, 168, 122), (124, 124, 145), (164, 252, 49), (88, 122, 23), (80, 0, 0)]
+2021-05-10 01:18:49,887 [DEBUG] Setting Prediction to 159, 127, 197
+2021-05-10 01:18:52,893 [DEBUG] Setting Prediction to 164, 252, 49
+2021-05-10 01:18:55,899 [DEBUG] Setting Prediction to 88, 122, 23
+2021-05-10 01:18:58,904 [DEBUG] Setting Prediction to 160, 220, 210
+2021-05-10 01:19:01,910 [DEBUG] Setting Prediction to 54, 58, 44
+2021-05-10 01:19:04,992 [INFO] Logger successfully initialised
+2021-05-10 01:19:05,003 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:19:05,019 [INFO] Running graphics
+2021-05-10 01:19:06,904 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:19:06,908 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:19:07,607 [DEBUG] Random target set created for guessing: [(215, 108, 225), (82, 140, 158), (132, 49, 32), (248, 89, 189), (34, 232, 2), (13, 85, 120), (121, 207, 10), (148, 228, 23), (180, 16, 92), (131, 145, 84), (166, 10, 243), (72, 31, 96), (44, 152, 237), (93, 71, 73), (198, 244, 216), (190, 132, 118), (23, 253, 144), (116, 66, 151), (81, 109, 25), (80, 0, 0)]
+2021-05-10 01:19:07,612 [DEBUG] Setting Prediction to 23, 253, 144
+2021-05-10 01:19:10,620 [DEBUG] Setting Prediction to 80, 0, 0
+2021-05-10 01:19:19,187 [INFO] Logger successfully initialised
+2021-05-10 01:19:19,198 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:19:19,213 [INFO] Running graphics
+2021-05-10 01:19:22,442 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:19:22,443 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:20:33,248 [INFO] Logger successfully initialised
+2021-05-10 01:20:33,258 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:20:33,273 [INFO] Running graphics
+2021-05-10 01:20:34,888 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:20:34,892 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:20:35,593 [DEBUG] Random target set created for guessing: [(203, 162, 222), (40, 60, 62), (26, 133, 134), (199, 145, 112), (157, 169, 111), (209, 83, 239), (115, 116, 108), (75, 153, 143), (126, 176, 164), (46, 199, 182), (47, 216, 80), (25, 183, 128), (4, 206, 186), (109, 53, 129), (49, 138, 55), (140, 64, 183), (144, 242, 251), (92, 77, 103), (153, 121, 220), (80, 0, 0)]
+2021-05-10 01:20:35,597 [DEBUG] Setting Prediction to 199, 145, 112
+2021-05-10 01:23:58,794 [INFO] Logger successfully initialised
+2021-05-10 01:23:58,803 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:23:58,822 [INFO] Running graphics
+2021-05-10 01:24:01,271 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:24:01,272 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:24:01,283 [DEBUG] Random target set created for guessing: [(205, 64, 134), (207, 187, 159), (171, 53, 11), (80, 140, 102), (167, 195, 123), (93, 166, 179), (159, 185, 114), (2, 26, 92), (47, 27, 163), (182, 125, 144), (113, 144, 229), (23, 96, 224), (239, 67, 156), (208, 105, 29), (241, 86, 58), (244, 42, 248), (86, 230, 142), (100, 196, 164), (246, 207, 69), (80, 0, 0)]
+2021-05-10 01:24:01,285 [DEBUG] Setting Prediction to 205, 64, 134
+2021-05-10 01:24:04,290 [DEBUG] Setting Prediction to 113, 144, 229
+2021-05-10 01:24:07,295 [DEBUG] Setting Prediction to 241, 86, 58
+2021-05-10 01:24:10,300 [DEBUG] Setting Prediction to 86, 230, 142
+2021-05-10 01:24:23,072 [INFO] Logger successfully initialised
+2021-05-10 01:24:23,083 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:24:23,101 [INFO] Running graphics
+2021-05-10 01:24:24,929 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:24:24,930 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:24:24,943 [DEBUG] Random target set created for guessing: [(103, 35, 234), (41, 183, 107), (32, 64, 251), (140, 134, 48), (166, 127, 230), (57, 16, 196), (55, 49, 195), (251, 22, 135), (63, 29, 24), (139, 51, 76), (80, 239, 101), (252, 234, 74), (83, 195, 10), (193, 154, 58), (82, 52, 253), (68, 181, 45), (199, 179, 203), (3, 253, 133), (86, 96, 147), (80, 0, 0)]
+2021-05-10 01:24:24,944 [DEBUG] Setting Prediction to 251, 22, 135
+2021-05-10 01:24:27,950 [DEBUG] Setting Prediction to 32, 64, 251
+2021-05-10 01:24:30,955 [DEBUG] Setting Prediction to 63, 29, 24
+2021-05-10 01:24:33,962 [DEBUG] Setting Prediction to 55, 49, 195
+2021-05-10 01:24:36,967 [DEBUG] Setting Prediction to 252, 234, 74
+2021-05-10 01:24:39,973 [DEBUG] Setting Prediction to 82, 52, 253
+2021-05-10 01:24:42,977 [DEBUG] Setting Prediction to 139, 51, 76
+2021-05-10 01:24:45,982 [DEBUG] Setting Prediction to 103, 35, 234
+2021-05-10 01:24:48,986 [DEBUG] Setting Prediction to 57, 16, 196
+2021-05-10 01:24:51,991 [DEBUG] Setting Prediction to 199, 179, 203
+2021-05-10 01:24:54,996 [DEBUG] Setting Prediction to 41, 183, 107
+2021-05-10 01:24:58,001 [DEBUG] Setting Prediction to 80, 0, 0
+2021-05-10 01:25:08,423 [INFO] Program exited successfully
+2021-05-10 01:27:25,341 [INFO] Logger successfully initialised
+2021-05-10 01:27:25,352 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:27:25,360 [INFO] Running graphics
+2021-05-10 01:27:28,916 [INFO] Colour successfully set to RGB value of 50,50,100
+2021-05-10 01:27:28,917 [DEBUG] Setting Goal to 50, 100, 50
+2021-05-10 01:27:28,929 [DEBUG] Random target set created for guessing: [(75, 7, 210), (215, 244, 94), (93, 63, 122), (186, 184, 13), (23, 115, 21), (171, 6, 252), (61, 191, 47), (201, 81, 27), (232, 214, 183), (85, 21, 240), (120, 164, 156), (45, 123, 69), (177, 124, 230), (119, 92, 67), (212, 205, 19), (173, 67, 39), (194, 249, 66), (82, 125, 62), (113, 232, 132), (50, 100, 50)]
+2021-05-10 01:27:28,932 [DEBUG] Setting Prediction to 120, 164, 156
+2021-05-10 01:27:31,936 [DEBUG] Setting Prediction to 232, 214, 183
+2021-05-10 01:27:34,941 [DEBUG] Setting Prediction to 75, 7, 210
+2021-05-10 01:27:37,946 [DEBUG] Setting Prediction to 82, 125, 62
+2021-05-10 01:27:40,950 [DEBUG] Setting Prediction to 212, 205, 19
+2021-05-10 01:27:43,955 [DEBUG] Setting Prediction to 45, 123, 69
+2021-05-10 01:28:37,110 [INFO] Logger successfully initialised
+2021-05-10 01:28:37,119 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:28:37,139 [INFO] Running graphics
+2021-05-10 01:28:38,476 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:28:38,480 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:28:38,527 [DEBUG] Random target set created for guessing: [(112, 26, 32), (3, 11, 71), (94, 4, 220), (17, 159, 43), (95, 243, 37), (93, 65, 3), (159, 242, 224), (44, 88, 84), (249, 76, 66), (78, 6, 216), (208, 92, 63), (104, 51, 235), (98, 105, 121), (227, 124, 241), (192, 25, 176), (45, 106, 172), (182, 71, 94), (22, 222, 160), (60, 129, 131), (80, 0, 0)]
+2021-05-10 01:28:38,536 [DEBUG] Setting Prediction to 227, 124, 241
+2021-05-10 01:28:41,545 [DEBUG] Setting Prediction to 44, 88, 84
+2021-05-10 01:28:44,550 [DEBUG] Setting Prediction to 17, 159, 43
+2021-05-10 01:29:25,021 [INFO] Logger successfully initialised
+2021-05-10 01:29:25,034 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:29:25,041 [INFO] Running graphics
+2021-05-10 01:29:26,419 [INFO] Colour successfully set to RGB value of 80,0,0
+2021-05-10 01:29:26,420 [DEBUG] Setting Goal to 80, 0, 0
+2021-05-10 01:29:26,432 [DEBUG] Random target set created for guessing: [(93, 156, 223), (247, 206, 157), (125, 7, 215), (68, 127, 87), (105, 184, 96), (196, 211, 9), (98, 114, 66), (153, 220, 207), (43, 38, 232), (114, 240, 16), (115, 170, 224), (244, 169, 18), (246, 226, 118), (158, 125, 246), (0, 10, 177), (151, 56, 132), (45, 227, 80), (92, 54, 154), (193, 25, 204), (80, 0, 0)]
+2021-05-10 01:29:26,433 [DEBUG] Setting Prediction to 80, 0, 0
+2021-05-10 01:29:43,597 [INFO] Logger successfully initialised
+2021-05-10 01:29:43,613 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:29:43,628 [INFO] Running graphics
+2021-05-10 01:29:47,384 [INFO] Colour successfully set to RGB value of 100,0,200
+2021-05-10 01:29:47,385 [DEBUG] Setting Goal to 100, 200, 0
+2021-05-10 01:29:47,396 [DEBUG] Random target set created for guessing: [(183, 126, 252), (17, 205, 28), (200, 117, 105), (44, 49, 156), (30, 191, 106), (92, 119, 47), (196, 101, 183), (160, 159, 39), (116, 34, 224), (252, 176, 43), (219, 96, 58), (142, 98, 114), (148, 216, 159), (140, 214, 89), (250, 170, 24), (207, 80, 34), (203, 122, 119), (4, 228, 168), (73, 185, 129), (100, 200, 0)]
+2021-05-10 01:29:47,397 [DEBUG] Setting Prediction to 92, 119, 47
+2021-05-10 01:29:50,403 [DEBUG] Setting Prediction to 4, 228, 168
+2021-05-10 01:29:53,407 [DEBUG] Setting Prediction to 116, 34, 224
+2021-05-10 01:29:56,412 [DEBUG] Setting Prediction to 160, 159, 39
+2021-05-10 01:29:59,417 [DEBUG] Setting Prediction to 252, 176, 43
+2021-05-10 01:30:41,882 [INFO] Logger successfully initialised
+2021-05-10 01:30:41,894 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:30:41,913 [INFO] Running graphics
+2021-05-10 01:30:44,435 [INFO] Colour successfully set to RGB value of 50,0,100
+2021-05-10 01:30:44,436 [DEBUG] Setting Goal to 50, 100, 0
+2021-05-10 01:30:44,448 [DEBUG] Random target set created for guessing: [(252, 83, 112), (73, 210, 0), (87, 62, 224), (132, 211, 202), (3, 59, 183), (185, 32, 27), (25, 102, 10), (65, 197, 207), (61, 151, 40), (214, 144, 13), (63, 153, 244), (148, 237, 113), (22, 27, 222), (231, 194, 54), (217, 133, 7), (37, 206, 12), (11, 43, 31), (66, 250, 154), (18, 247, 181), (50, 100, 0)]
+2021-05-10 01:30:44,449 [DEBUG] Setting Prediction to 50, 100, 0
+2021-05-10 01:30:57,396 [INFO] Colour successfully set to RGB value of 100,10,10
+2021-05-10 01:30:57,397 [DEBUG] Setting Goal to 100, 10, 10
+2021-05-10 01:30:57,400 [DEBUG] Random target set created for guessing: [(83, 154, 164), (206, 84, 25), (233, 111, 27), (147, 132, 47), (181, 80, 197), (127, 226, 214), (32, 170, 121), (44, 212, 191), (71, 211, 227), (212, 96, 223), (135, 41, 172), (16, 95, 199), (34, 245, 110), (40, 153, 210), (11, 234, 85), (170, 66, 44), (218, 1, 122), (160, 162, 92), (77, 155, 123), (100, 10, 10)]
+2021-05-10 01:30:57,402 [DEBUG] Setting Prediction to 100, 10, 10
+2021-05-10 01:31:06,216 [INFO] Colour successfully set to RGB value of 50,90,90
+2021-05-10 01:31:06,217 [DEBUG] Setting Goal to 50, 90, 90
+2021-05-10 01:31:06,219 [DEBUG] Random target set created for guessing: [(214, 40, 47), (58, 90, 191), (27, 27, 118), (145, 5, 70), (14, 28, 119), (35, 245, 150), (12, 56, 189), (25, 22, 46), (144, 190, 32), (3, 31, 129), (47, 14, 236), (217, 186, 223), (39, 141, 74), (200, 146, 167), (242, 0, 26), (23, 46, 105), (81, 7, 115), (86, 154, 98), (218, 158, 135), (50, 90, 90)]
+2021-05-10 01:31:06,221 [DEBUG] Setting Prediction to 217, 186, 223
+2021-05-10 01:31:09,226 [DEBUG] Setting Prediction to 14, 28, 119
+2021-05-10 01:31:12,231 [DEBUG] Setting Prediction to 200, 146, 167
+2021-05-10 01:31:15,236 [DEBUG] Setting Prediction to 3, 31, 129
+2021-05-10 01:31:18,241 [DEBUG] Setting Prediction to 50, 90, 90
+2021-05-10 01:32:41,123 [INFO] Logger successfully initialised
+2021-05-10 01:32:41,134 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:32:41,152 [INFO] Running graphics
+2021-05-10 01:32:45,105 [INFO] Colour successfully set to RGB value of 0,200,200
+2021-05-10 01:32:45,109 [DEBUG] Setting Goal to 0, 200, 200
+2021-05-10 01:32:45,162 [DEBUG] Random target set created for guessing: [(30, 32, 240), (5, 20, 15), (63, 68, 231), (108, 156, 57), (22, 122, 74), (242, 67, 51), (109, 171, 139), (70, 46, 189), (127, 133, 250), (86, 102, 217), (11, 212, 167), (142, 132, 176), (95, 86, 154), (54, 166, 130), (94, 241, 132), (53, 33, 38), (253, 160, 182), (148, 64, 1), (37, 192, 116), (0, 200, 200)]
+2021-05-10 01:32:45,170 [DEBUG] Setting Prediction to 86, 102, 217
+2021-05-10 01:32:48,179 [DEBUG] Setting Prediction to 148, 64, 1
+2021-05-10 01:32:51,187 [DEBUG] Setting Prediction to 63, 68, 231
+2021-05-10 01:32:54,196 [DEBUG] Setting Prediction to 37, 192, 116
+2021-05-10 01:32:57,206 [DEBUG] Setting Prediction to 95, 86, 154
+2021-05-10 01:33:00,215 [DEBUG] Setting Prediction to 127, 133, 250
+2021-05-10 01:33:03,225 [DEBUG] Setting Prediction to 11, 212, 167
+2021-05-10 01:33:06,234 [DEBUG] Setting Prediction to 70, 46, 189
+2021-05-10 01:33:09,244 [DEBUG] Setting Prediction to 22, 122, 74
+2021-05-10 01:33:12,253 [DEBUG] Setting Prediction to 253, 160, 182
+2021-05-10 01:33:15,263 [DEBUG] Setting Prediction to 5, 20, 15
+2021-05-10 01:33:18,273 [DEBUG] Setting Prediction to 54, 166, 130
+2021-05-10 01:33:21,283 [DEBUG] Setting Prediction to 30, 32, 240
+2021-05-10 01:33:24,295 [DEBUG] Setting Prediction to 94, 241, 132
+2021-05-10 01:33:27,305 [DEBUG] Setting Prediction to 142, 132, 176
+2021-05-10 01:33:30,314 [DEBUG] Setting Prediction to 108, 156, 57
+2021-05-10 01:33:33,323 [DEBUG] Setting Prediction to 0, 200, 200
+2021-05-10 01:38:37,453 [INFO] Colour successfully set to RGB value of 80,80,80
+2021-05-10 01:38:37,459 [DEBUG] Setting Goal to 80, 80, 80
+2021-05-10 01:38:37,478 [DEBUG] Random target set created for guessing: [(19, 182, 118), (37, 186, 28), (214, 136, 66), (79, 54, 48), (211, 14, 181), (88, 176, 109), (32, 32, 157), (141, 234, 204), (128, 191, 160), (193, 124, 124), (148, 241, 237), (180, 235, 101), (33, 163, 117), (167, 225, 254), (154, 68, 155), (27, 121, 12), (107, 24, 125), (23, 1, 69), (76, 63, 46), (80, 80, 80)]
+2021-05-10 01:38:37,489 [DEBUG] Setting Prediction to 141, 234, 204
+2021-05-10 01:38:40,501 [DEBUG] Setting Prediction to 154, 68, 155
+2021-05-10 01:38:44,143 [INFO] Logger successfully initialised
+2021-05-10 01:38:44,156 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:38:44,163 [INFO] Running graphics
+2021-05-10 01:38:49,912 [INFO] Colour successfully set to RGB value of 90,90,10
+2021-05-10 01:38:49,913 [DEBUG] Setting Goal to 90, 10, 90
+2021-05-10 01:38:49,924 [DEBUG] Random target set created for guessing: [(218, 179, 211), (62, 41, 168), (69, 8, 121), (121, 89, 201), (30, 78, 221), (88, 111, 3), (130, 127, 244), (87, 185, 107), (12, 171, 34), (20, 124, 149), (108, 11, 70), (159, 123, 71), (107, 157, 170), (168, 222, 191), (36, 9, 148), (210, 38, 31), (247, 29, 51), (231, 49, 217), (18, 207, 66), (90, 10, 90)]
+2021-05-10 01:38:49,926 [DEBUG] Setting Prediction to 18, 207, 66
+2021-05-10 01:38:52,932 [DEBUG] Setting Prediction to 12, 171, 34
+2021-05-10 01:38:55,937 [DEBUG] Setting Prediction to 130, 127, 244
+2021-05-10 01:38:58,942 [DEBUG] Setting Prediction to 90, 10, 90
+2021-05-10 01:39:28,966 [INFO] Logger successfully initialised
+2021-05-10 01:39:28,977 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:39:28,984 [INFO] Running graphics
+2021-05-10 01:39:33,117 [INFO] Colour successfully set to RGB value of 100,50,50
+2021-05-10 01:39:33,118 [DEBUG] Setting Goal to 100, 50, 50
+2021-05-10 01:39:33,130 [DEBUG] Random target set created for guessing: [(108, 217, 45), (125, 129, 58), (75, 86, 90), (66, 110, 243), (23, 160, 189), (6, 74, 6), (152, 178, 19), (111, 104, 63), (105, 123, 226), (138, 222, 236), (25, 101, 97), (166, 52, 64), (217, 200, 33), (10, 187, 61), (71, 37, 22), (24, 241, 140), (198, 252, 244), (110, 75, 209), (42, 211, 96), (100, 50, 50)]
+2021-05-10 01:39:33,132 [DEBUG] Setting Prediction to 6, 74, 6
+2021-05-10 01:39:36,137 [DEBUG] Setting Prediction to 152, 178, 19
+2021-05-10 01:39:39,142 [DEBUG] Setting Prediction to 105, 123, 226
+2021-05-10 01:39:42,147 [DEBUG] Setting Prediction to 138, 222, 236
+2021-05-10 01:39:45,153 [DEBUG] Setting Prediction to 66, 110, 243
+2021-05-10 01:39:48,157 [DEBUG] Setting Prediction to 71, 37, 22
+2021-05-10 01:39:51,162 [DEBUG] Setting Prediction to 24, 241, 140
+2021-05-10 01:39:54,167 [DEBUG] Setting Prediction to 198, 252, 244
+2021-05-10 01:39:57,172 [DEBUG] Setting Prediction to 166, 52, 64
+2021-05-10 01:40:00,177 [DEBUG] Setting Prediction to 23, 160, 189
+2021-05-10 01:40:03,182 [DEBUG] Setting Prediction to 10, 187, 61
+2021-05-10 01:40:06,187 [DEBUG] Setting Prediction to 25, 101, 97
+2021-05-10 01:40:09,192 [DEBUG] Setting Prediction to 217, 200, 33
+2021-05-10 01:40:12,196 [DEBUG] Setting Prediction to 108, 217, 45
+2021-05-10 01:40:15,201 [DEBUG] Setting Prediction to 75, 86, 90
+2021-05-10 01:40:18,206 [DEBUG] Setting Prediction to 125, 129, 58
+2021-05-10 01:41:02,996 [INFO] Logger successfully initialised
+2021-05-10 01:41:03,013 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:41:03,031 [INFO] Running graphics
+2021-05-10 01:41:05,579 [INFO] Colour successfully set to RGB value of 100,0,0
+2021-05-10 01:41:05,583 [DEBUG] Setting Goal to 100, 0, 0
+2021-05-10 01:41:05,629 [DEBUG] Random target set created for guessing: [(112, 146, 226), (233, 164, 8), (122, 57, 202), (176, 33, 12), (186, 175, 205), (250, 28, 155), (49, 25, 199), (165, 81, 122), (39, 222, 90), (0, 182, 96), (167, 203, 95), (57, 202, 244), (251, 187, 230), (46, 74, 79), (164, 102, 203), (154, 86, 216), (252, 125, 73), (23, 44, 211), (116, 31, 2), (100, 0, 0)]
+2021-05-10 01:41:05,639 [DEBUG] Setting Prediction to 154, 86, 216
+2021-05-10 01:41:08,648 [DEBUG] Setting Prediction to 176, 33, 12
+2021-05-10 01:41:11,654 [DEBUG] Setting Prediction to 167, 203, 95
+2021-05-10 01:41:14,661 [DEBUG] Setting Prediction to 252, 125, 73
+2021-05-10 01:41:17,670 [DEBUG] Setting Prediction to 186, 175, 205
+2021-05-10 01:41:20,678 [DEBUG] Setting Prediction to 251, 187, 230
+2021-05-10 01:41:23,688 [DEBUG] Setting Prediction to 23, 44, 211
+2021-05-10 01:41:26,697 [DEBUG] Setting Prediction to 250, 28, 155
+2021-05-10 01:41:29,706 [DEBUG] Setting Prediction to 165, 81, 122
+2021-05-10 01:41:32,715 [DEBUG] Setting Prediction to 233, 164, 8
+2021-05-10 01:41:35,725 [DEBUG] Setting Prediction to 49, 25, 199
+2021-05-10 01:41:38,733 [DEBUG] Setting Prediction to 46, 74, 79
+2021-05-10 01:41:41,743 [DEBUG] Setting Prediction to 57, 202, 244
+2021-05-10 01:41:44,752 [DEBUG] Setting Prediction to 0, 182, 96
+2021-05-10 01:41:47,761 [DEBUG] Setting Prediction to 116, 31, 2
+2021-05-10 01:41:50,771 [DEBUG] Setting Prediction to 112, 146, 226
+2021-05-10 01:41:53,782 [DEBUG] Setting Prediction to 100, 0, 0
+2021-05-10 01:42:08,150 [INFO] Colour successfully set to RGB value of 80,80,80
+2021-05-10 01:42:08,151 [DEBUG] Setting Goal to 80, 80, 80
+2021-05-10 01:42:08,153 [DEBUG] Random target set created for guessing: [(96, 241, 94), (191, 190, 2), (159, 182, 171), (71, 161, 151), (80, 136, 209), (44, 140, 152), (59, 244, 135), (163, 223, 155), (195, 86, 70), (148, 88, 22), (62, 32, 190), (98, 224, 57), (106, 7, 237), (135, 138, 248), (252, 246, 50), (138, 202, 242), (208, 76, 249), (190, 199, 61), (238, 243, 227), (80, 80, 80)]
+2021-05-10 01:42:08,154 [DEBUG] Setting Prediction to 208, 76, 249
+2021-05-10 01:46:02,200 [INFO] Logger successfully initialised
+2021-05-10 01:46:02,214 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:46:02,221 [INFO] Running graphics
+2021-05-10 01:46:04,298 [INFO] Colour successfully set to RGB value of 100,0,0
+2021-05-10 01:46:04,300 [DEBUG] Setting Goal to 100, 0, 0
+2021-05-10 01:46:04,312 [DEBUG] Random target set created for guessing: [(237, 129, 9), (37, 67, 141), (186, 8, 159), (71, 219, 97), (50, 69, 36), (216, 19, 26), (251, 146, 201), (120, 37, 89), (215, 244, 240), (4, 141, 154), (159, 98, 83), (0, 57, 7), (89, 230, 42), (12, 40, 241), (207, 186, 132), (47, 135, 168), (195, 154, 102), (171, 115, 148), (72, 201, 13), (100, 0, 0)]
+2021-05-10 01:46:04,314 [DEBUG] Setting Prediction to 71, 219, 97
+2021-05-10 01:46:07,320 [DEBUG] Setting Prediction to 4, 141, 154
+2021-05-10 01:46:10,325 [DEBUG] Setting Prediction to 72, 201, 13
+2021-05-10 01:46:13,330 [DEBUG] Setting Prediction to 171, 115, 148
+2021-05-10 01:46:16,335 [DEBUG] Setting Prediction to 120, 37, 89
+2021-05-10 01:46:19,340 [DEBUG] Setting Prediction to 186, 8, 159
+2021-05-10 01:46:22,345 [DEBUG] Setting Prediction to 251, 146, 201
+2021-05-10 01:46:25,351 [DEBUG] Setting Prediction to 215, 244, 240
+2021-05-10 01:46:28,357 [DEBUG] Setting Prediction to 47, 135, 168
+2021-05-10 01:46:31,362 [DEBUG] Setting Prediction to 12, 40, 241
+2021-05-10 01:46:34,367 [DEBUG] Setting Prediction to 207, 186, 132
+2021-05-10 01:46:37,372 [DEBUG] Setting Prediction to 37, 67, 141
+2021-05-10 01:46:40,377 [DEBUG] Setting Prediction to 0, 57, 7
+2021-05-10 01:46:43,382 [DEBUG] Setting Prediction to 100, 0, 0
+2021-05-10 01:47:23,902 [INFO] Program exited successfully
+2021-05-10 01:47:25,731 [INFO] Logger successfully initialised
+2021-05-10 01:47:25,742 [DEBUG] Graphics instance successfully initialised
+2021-05-10 01:47:25,749 [INFO] Running graphics
+2021-05-10 01:47:28,517 [INFO] Colour successfully set to RGB value of 0,0,100
+2021-05-10 01:47:28,519 [DEBUG] Setting Goal to 0, 100, 0
+2021-05-10 01:47:28,530 [DEBUG] Random target set created for guessing: [(137, 32, 201), (24, 140, 102), (226, 157, 77), (93, 193, 40), (60, 198, 199), (71, 209, 0), (231, 156, 132), (246, 139, 114), (196, 47, 159), (201, 69, 81), (144, 31, 110), (179, 207, 43), (249, 75, 13), (185, 205, 61), (126, 238, 107), (54, 176, 225), (238, 28, 14), (3, 164, 153), (112, 224, 53), (0, 100, 0)]
+2021-05-10 01:47:28,532 [DEBUG] Setting Prediction to 185, 205, 61
+2021-05-10 01:47:31,537 [DEBUG] Setting Prediction to 238, 28, 14
+2021-05-10 01:47:34,542 [DEBUG] Setting Prediction to 201, 69, 81
+2021-05-10 01:47:37,546 [DEBUG] Setting Prediction to 137, 32, 201
+2021-05-10 01:47:40,551 [DEBUG] Setting Prediction to 112, 224, 53
+2021-05-10 01:47:43,556 [DEBUG] Setting Prediction to 126, 238, 107
+2021-05-10 01:47:46,561 [DEBUG] Setting Prediction to 179, 207, 43
+2021-05-10 01:47:49,564 [DEBUG] Setting Prediction to 24, 140, 102
+2021-05-10 01:47:52,568 [DEBUG] Setting Prediction to 144, 31, 110
+2021-05-10 01:47:55,573 [DEBUG] Setting Prediction to 0, 100, 0
+2021-05-10 01:48:20,338 [INFO] Colour successfully set to RGB value of 10,10,0
+2021-05-10 01:48:20,339 [DEBUG] Setting Goal to 10, 0, 10
+2021-05-10 01:48:20,341 [DEBUG] Random target set created for guessing: [(201, 184, 24), (232, 146, 40), (175, 85, 138), (250, 112, 101), (38, 55, 251), (105, 150, 94), (241, 47, 183), (207, 148, 152), (159, 109, 89), (25, 224, 75), (78, 252, 156), (131, 42, 197), (12, 40, 227), (85, 166, 1), (4, 155, 154), (198, 156, 115), (100, 63, 55), (15, 118, 237), (92, 119, 192), (10, 0, 10)]
+2021-05-10 01:48:20,343 [DEBUG] Setting Prediction to 100, 63, 55
+2021-05-10 01:48:23,348 [DEBUG] Setting Prediction to 250, 112, 101
+2021-05-10 01:48:26,353 [DEBUG] Setting Prediction to 15, 118, 237
+2021-05-10 01:48:29,358 [DEBUG] Setting Prediction to 10, 0, 10
+2021-05-10 01:48:57,030 [INFO] Program exited successfully
+2021-05-10 02:34:50,335 [INFO] Logger successfully initialised
+2021-05-10 02:34:50,345 [DEBUG] Graphics instance successfully initialised
+2021-05-10 02:34:50,364 [INFO] Running graphics
+2021-05-10 02:34:54,150 [INFO] Colour successfully set to RGB value of 50,50,590
+2021-05-10 02:34:54,151 [DEBUG] Setting Goal to 50, 590, 50
+2021-05-10 02:40:35,220 [INFO] Logger successfully initialised
+2021-05-10 02:40:35,229 [DEBUG] Graphics instance successfully initialised
+2021-05-10 02:40:35,280 [INFO] Running graphics
+2021-05-10 02:40:43,593 [INFO] Colour successfully set to RGB value of 180,120,0
+2021-05-10 02:40:43,594 [DEBUG] Setting Goal to 180, 0, 120
+2021-05-10 02:40:43,605 [DEBUG] Random target set created for guessing: [(143, 109, 171), (182, 249, 103), (80, 174, 224), (98, 81, 225), (195, 173, 211), (232, 251, 168), (242, 140, 49), (226, 74, 1), (252, 79, 45), (167, 128, 38), (133, 28, 250), (14, 228, 46), (119, 227, 87), (196, 198, 6), (187, 7, 153), (245, 25, 95), (72, 187, 0), (215, 184, 138), (178, 208, 107), (180, 0, 120)]
+2021-05-10 02:40:43,606 [DEBUG] Setting Prediction to 14, 228, 46
+2021-05-10 02:40:46,610 [DEBUG] Setting Prediction to 143, 109, 171
+2021-05-10 02:40:49,615 [DEBUG] Setting Prediction to 80, 174, 224
+2021-05-10 02:40:52,619 [DEBUG] Setting Prediction to 215, 184, 138
+2021-05-10 02:40:55,624 [DEBUG] Setting Prediction to 167, 128, 38
+2021-05-10 02:40:58,629 [DEBUG] Setting Prediction to 232, 251, 168
+2021-05-10 02:41:01,633 [DEBUG] Setting Prediction to 133, 28, 250
+2021-05-10 02:41:04,638 [DEBUG] Setting Prediction to 245, 25, 95
+2021-05-10 02:41:07,642 [DEBUG] Setting Prediction to 252, 79, 45
+2021-05-10 02:41:10,647 [DEBUG] Setting Prediction to 178, 208, 107
+2021-05-10 02:41:13,651 [DEBUG] Setting Prediction to 226, 74, 1
+2021-05-10 02:41:16,656 [DEBUG] Setting Prediction to 182, 249, 103
+2021-05-10 02:41:19,661 [DEBUG] Setting Prediction to 242, 140, 49
+2021-05-10 02:41:22,665 [DEBUG] Setting Prediction to 119, 227, 87
+2021-05-10 02:41:25,670 [DEBUG] Setting Prediction to 98, 81, 225
+2021-05-10 02:41:28,681 [DEBUG] Setting Prediction to 187, 7, 153
+2021-05-10 02:41:31,685 [DEBUG] Setting Prediction to 195, 173, 211
+2021-05-10 02:41:34,695 [DEBUG] Setting Prediction to 196, 198, 6
+2021-05-10 02:41:37,700 [DEBUG] Setting Prediction to 180, 0, 120
+2021-05-10 02:41:56,002 [INFO] Colour successfully set to RGB value of 0,250,0
+2021-05-10 02:41:56,003 [DEBUG] Setting Goal to 0, 0, 250
+2021-05-10 02:41:56,004 [DEBUG] Random target set created for guessing: [(60, 213, 17), (63, 243, 15), (112, 120, 230), (146, 0, 137), (131, 93, 161), (213, 247, 131), (142, 242, 158), (157, 170, 166), (44, 244, 6), (31, 206, 182), (84, 114, 59), (71, 34, 242), (155, 99, 52), (240, 103, 101), (234, 78, 71), (202, 73, 45), (198, 137, 164), (193, 40, 206), (8, 197, 113), (0, 0, 250)]
+2021-05-10 02:41:56,005 [DEBUG] Setting Prediction to 240, 103, 101
+2021-05-10 02:41:59,009 [DEBUG] Setting Prediction to 202, 73, 45
+2021-05-10 02:42:02,014 [DEBUG] Setting Prediction to 8, 197, 113
+2021-05-10 02:42:05,018 [DEBUG] Setting Prediction to 213, 247, 131
+2021-05-10 02:42:08,023 [DEBUG] Setting Prediction to 198, 137, 164
+2021-05-10 02:42:11,028 [DEBUG] Setting Prediction to 60, 213, 17
+2021-05-10 02:42:14,032 [DEBUG] Setting Prediction to 142, 242, 158
+2021-05-10 02:42:17,037 [DEBUG] Setting Prediction to 0, 0, 250
+2021-05-10 02:42:24,413 [INFO] Program exited successfully
+2021-05-10 04:07:08,814 [INFO] Logger successfully initialised
+2021-05-10 04:07:08,821 [DEBUG] Graphics instance successfully initialised
+2021-05-10 04:07:08,825 [INFO] Running graphics
+2021-05-10 04:07:32,074 [INFO] Colour successfully set to RGB value of 128,82,100
+2021-05-10 04:07:32,075 [DEBUG] Setting Goal to 128, 100, 82
+2021-05-10 04:07:32,085 [DEBUG] Random target set created for guessing: [(166, 108, 123), (156, 168, 201), (98, 32, 76), (9, 44, 230), (117, 41, 70), (162, 186, 101), (188, 182, 34), (235, 228, 16), (119, 159, 83), (147, 131, 228), (163, 4, 111), (16, 117, 78), (8, 138, 212), (173, 135, 124), (42, 248, 11), (85, 176, 216), (205, 160, 222), (248, 121, 89), (178, 111, 84), (128, 100, 82)]
+2021-05-10 04:07:32,086 [DEBUG] Setting Prediction to 156, 168, 201
+2021-05-10 04:07:35,091 [DEBUG] Setting Prediction to 178, 111, 84
+2021-05-10 04:07:38,095 [DEBUG] Setting Prediction to 248, 121, 89
+2021-05-10 04:07:41,100 [DEBUG] Setting Prediction to 119, 159, 83
+2021-05-10 04:07:44,105 [DEBUG] Setting Prediction to 42, 248, 11
+2021-05-10 04:07:47,110 [DEBUG] Setting Prediction to 16, 117, 78
+2021-05-10 04:07:50,115 [DEBUG] Setting Prediction to 98, 32, 76
+2021-05-10 04:07:53,119 [DEBUG] Setting Prediction to 188, 182, 34
+2021-05-10 04:07:56,124 [DEBUG] Setting Prediction to 166, 108, 123
+2021-05-10 04:07:59,128 [DEBUG] Setting Prediction to 117, 41, 70
+2021-05-10 04:08:02,133 [DEBUG] Setting Prediction to 147, 131, 228
+2021-05-10 04:08:05,138 [DEBUG] Setting Prediction to 162, 186, 101
+2021-05-10 04:08:08,142 [DEBUG] Setting Prediction to 163, 4, 111
+2021-05-10 04:08:11,147 [DEBUG] Setting Prediction to 85, 176, 216
+2021-05-10 04:08:14,152 [DEBUG] Setting Prediction to 173, 135, 124
+2021-05-10 04:08:17,157 [DEBUG] Setting Prediction to 9, 44, 230
+2021-05-10 04:08:20,161 [DEBUG] Setting Prediction to 205, 160, 222
+2021-05-10 04:08:23,166 [DEBUG] Setting Prediction to 8, 138, 212
+2021-05-10 04:08:26,171 [DEBUG] Setting Prediction to 235, 228, 16
+2021-05-10 04:08:29,176 [DEBUG] Setting Prediction to 128, 100, 82
+2021-05-10 04:08:47,861 [INFO] Program exited successfully
+2021-06-06 11:31:36,139 [INFO] Logger successfully initialised
+2021-06-06 11:31:36,150 [DEBUG] Graphics instance successfully initialised
+2021-06-06 11:31:36,212 [INFO] Running graphics
+2021-06-06 11:31:42,352 [INFO] Colour successfully set to RGB value of 100,100,20
+2021-06-06 11:31:42,353 [DEBUG] Setting Goal to 100, 20, 100
+2021-06-06 11:31:42,364 [DEBUG] Random target set created for guessing: [(158, 220, 167), (164, 141, 44), (183, 47, 33), (115, 186, 126), (97, 11, 108), (61, 114, 92), (211, 25, 231), (181, 205, 71), (254, 43, 240), (251, 79, 112), (47, 207, 63), (17, 129, 175), (144, 30, 224), (239, 182, 234), (169, 176, 197), (167, 22, 246), (231, 179, 23), (84, 193, 17), (32, 99, 51), (100, 20, 100)]
+2021-06-06 11:31:42,365 [DEBUG] Setting Prediction to 17, 129, 175
+2021-06-06 11:31:45,370 [DEBUG] Setting Prediction to 115, 186, 126
+2021-06-06 11:31:48,374 [DEBUG] Setting Prediction to 47, 207, 63
+2021-06-06 11:31:51,379 [DEBUG] Setting Prediction to 84, 193, 17
+2021-06-06 11:31:54,383 [DEBUG] Setting Prediction to 32, 99, 51
+2021-06-06 11:31:57,388 [DEBUG] Setting Prediction to 164, 141, 44
+2021-06-06 11:32:00,393 [DEBUG] Setting Prediction to 254, 43, 240
+2021-06-06 11:32:03,397 [DEBUG] Setting Prediction to 169, 176, 197
+2021-06-06 11:32:06,402 [DEBUG] Setting Prediction to 181, 205, 71
+2021-06-06 11:32:09,406 [DEBUG] Setting Prediction to 211, 25, 231
+2021-06-06 11:32:12,411 [DEBUG] Setting Prediction to 183, 47, 33
+2021-06-06 11:32:15,416 [DEBUG] Setting Prediction to 251, 79, 112
+2021-06-06 11:32:18,420 [DEBUG] Setting Prediction to 158, 220, 167
+2021-06-06 11:32:21,425 [DEBUG] Setting Prediction to 97, 11, 108
+2021-06-06 11:32:24,430 [DEBUG] Setting Prediction to 167, 22, 246
+2021-06-06 11:32:27,435 [DEBUG] Setting Prediction to 231, 179, 23
+2021-06-06 11:32:30,440 [DEBUG] Setting Prediction to 100, 20, 100
+2021-06-06 11:32:44,019 [INFO] Colour successfully set to RGB value of 80,10,10
+2021-06-06 11:32:44,020 [DEBUG] Setting Goal to 80, 10, 10
+2021-06-06 11:32:44,023 [DEBUG] Random target set created for guessing: [(19, 219, 165), (130, 84, 149), (121, 31, 159), (223, 23, 226), (197, 14, 164), (76, 205, 90), (199, 178, 123), (13, 250, 25), (137, 104, 168), (185, 110, 209), (43, 168, 31), (202, 197, 112), (154, 224, 129), (108, 172, 54), (151, 10, 66), (228, 68, 184), (111, 127, 148), (195, 100, 132), (203, 59, 224), (80, 10, 10)]
+2021-06-06 11:32:44,024 [DEBUG] Setting Prediction to 19, 219, 165
+2021-06-06 11:32:47,030 [DEBUG] Setting Prediction to 223, 23, 226
+2021-06-06 11:32:50,034 [DEBUG] Setting Prediction to 203, 59, 224
+2021-06-06 11:32:53,039 [DEBUG] Setting Prediction to 199, 178, 123
+2021-06-06 11:32:56,044 [DEBUG] Setting Prediction to 108, 172, 54
+2021-06-06 11:32:59,046 [DEBUG] Setting Prediction to 130, 84, 149
+2021-06-06 11:33:02,048 [DEBUG] Setting Prediction to 121, 31, 159
+2021-06-06 11:33:05,053 [DEBUG] Setting Prediction to 185, 110, 209
+2021-06-06 11:33:08,057 [DEBUG] Setting Prediction to 111, 127, 148
+2021-06-06 11:33:11,062 [DEBUG] Setting Prediction to 43, 168, 31
+2021-06-06 11:33:14,064 [DEBUG] Setting Prediction to 76, 205, 90
+2021-06-06 11:33:17,068 [DEBUG] Setting Prediction to 154, 224, 129
+2021-06-06 11:33:20,073 [DEBUG] Setting Prediction to 197, 14, 164
+2021-06-06 11:33:23,077 [DEBUG] Setting Prediction to 228, 68, 184
+2021-06-06 11:33:26,080 [DEBUG] Setting Prediction to 137, 104, 168
+2021-06-06 11:33:29,085 [DEBUG] Setting Prediction to 202, 197, 112
+2021-06-06 11:33:32,090 [DEBUG] Setting Prediction to 151, 10, 66
+2021-06-06 11:33:35,094 [DEBUG] Setting Prediction to 195, 100, 132
+2021-06-06 11:33:38,099 [DEBUG] Setting Prediction to 80, 10, 10
+2021-06-06 11:34:08,142 [INFO] Program exited successfully
+2021-06-06 17:36:19,520 [INFO] Logger successfully initialised
+2021-06-06 17:37:54,089 [INFO] Logger successfully initialised
+2021-06-06 17:43:31,138 [INFO] Logger successfully initialised
+2021-06-06 17:49:06,960 [INFO] Logger successfully initialised
+2021-06-06 18:05:49,054 [INFO] Logger successfully initialised
+2021-06-06 18:32:37,690 [INFO] Logger successfully initialised
+2021-06-06 18:35:54,654 [INFO] Logger successfully initialised
+2021-06-06 18:35:58,781 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 18:35:58,784 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 18:35:58,785 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 18:35:58,786 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 18:35:58,787 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 18:35:58,788 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 18:35:58,790 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 18:35:58,791 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 18:35:58\x00'
+2021-06-06 18:35:58,792 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 18:35:58,794 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 18:35:59,217 [DEBUG] Graphics instance successfully initialised
+2021-06-06 18:44:25,600 [INFO] Logger successfully initialised
+2021-06-06 18:44:25,762 [DEBUG] Graphics instance successfully initialised
+2021-06-06 18:44:25,878 [INFO] Running graphics
+2021-06-06 18:48:20,121 [INFO] Logger successfully initialised
+2021-06-06 18:48:20,236 [DEBUG] Graphics instance successfully initialised
+2021-06-06 18:48:20,452 [INFO] Running graphics
+2021-06-06 18:53:38,905 [INFO] Logger successfully initialised
+2021-06-06 18:53:39,623 [DEBUG] Graphics instance successfully initialised
+2021-06-06 18:53:40,226 [INFO] Running graphics
+2021-06-06 18:56:51,603 [INFO] Logger successfully initialised
+2021-06-06 18:56:52,085 [DEBUG] Graphics instance successfully initialised
+2021-06-06 18:56:52,319 [INFO] Running graphics
+2021-06-06 18:59:48,351 [INFO] Logger successfully initialised
+2021-06-06 18:59:48,575 [DEBUG] Graphics instance successfully initialised
+2021-06-06 18:59:48,777 [INFO] Running graphics
+2021-06-06 18:59:53,875 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 18:59:53,894 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 18:59:53,895 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 18:59:53,896 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 18:59:53,897 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 18:59:53,898 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 18:59:53,899 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 18:59:53,900 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 18:59:53\x00'
+2021-06-06 18:59:53,901 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 18:59:53,902 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:04:10,594 [INFO] Logger successfully initialised
+2021-06-06 19:04:10,710 [DEBUG] Graphics instance successfully initialised
+2021-06-06 19:04:10,784 [INFO] Running graphics
+2021-06-06 19:04:15,815 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:04:15,816 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:04:15,818 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:04:15,819 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:04:15,821 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:04:15,822 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:04:15,823 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:04:15,825 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:04:15\x00'
+2021-06-06 19:04:15,826 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:04:15,826 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:05:28,673 [INFO] Logger successfully initialised
+2021-06-06 19:05:28,872 [DEBUG] Graphics instance successfully initialised
+2021-06-06 19:05:29,094 [INFO] Running graphics
+2021-06-06 19:05:33,687 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:05:33,689 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:05:33,691 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:05:33,692 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:05:33,693 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:05:33,694 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:05:33,697 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:05:33,699 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:05:33\x00'
+2021-06-06 19:05:33,700 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:05:33,702 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:09:27,391 [INFO] Logger successfully initialised
+2021-06-06 19:09:27,469 [DEBUG] Graphics instance successfully initialised
+2021-06-06 19:09:27,566 [INFO] Running graphics
+2021-06-06 19:09:32,267 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:09:32,283 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:09:32,284 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:09:32,285 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:09:32,285 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:09:32,286 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:09:32,286 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:09:32,286 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:09:31\x00'
+2021-06-06 19:09:32,287 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:09:32,287 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:12:18,656 [INFO] Logger successfully initialised
+2021-06-06 19:12:18,722 [DEBUG] Graphics instance successfully initialised
+2021-06-06 19:12:18,900 [INFO] Running graphics
+2021-06-06 19:12:30,366 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:12:30,639 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:12:30,640 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:12:30,641 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:12:30,641 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:12:30,642 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:12:30,643 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:12:30,643 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:12:25\x00'
+2021-06-06 19:12:30,644 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:12:30,645 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:20:22,228 [INFO] Logger successfully initialised
+2021-06-06 19:20:22,379 [DEBUG] Graphics instance successfully initialised
+2021-06-06 19:20:22,480 [INFO] Running graphics
+2021-06-06 19:20:27,654 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:20:27,656 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:20:27,657 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:20:27,658 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:20:27,658 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:20:27,659 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:20:27,659 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:20:27,660 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:20:26\x00'
+2021-06-06 19:20:27,661 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:20:27,661 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:22:59,658 [INFO] Logger successfully initialised
+2021-06-06 19:22:59,945 [DEBUG] Graphics instance successfully initialised
+2021-06-06 19:23:00,086 [INFO] Running graphics
+2021-06-06 19:23:15,149 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:23:15,382 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:23:15,384 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:23:15,385 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:23:15,385 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:23:15,386 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:23:15,386 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:23:15,387 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:23:05\x00'
+2021-06-06 19:23:15,388 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:23:15,389 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:25:19,068 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:25:19,191 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:25:19,192 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:25:19,194 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:25:19,195 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:25:19,198 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:25:19,199 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:25:19,200 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:25:18\x00'
+2021-06-06 19:25:19,201 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:25:19,204 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:26:45,255 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:26:45,433 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:26:45,434 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:26:45,435 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:26:45,436 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:26:45,437 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:26:45,438 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:26:45,438 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:26:44\x00'
+2021-06-06 19:26:45,439 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:26:45,440 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:27:49,628 [INFO] Program exited successfully
+2021-06-06 19:33:27,674 [INFO] Logger successfully initialised
+2021-06-06 19:33:27,783 [DEBUG] Graphics instance successfully initialised
+2021-06-06 19:33:27,898 [INFO] Running graphics
+2021-06-06 19:33:55,758 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:33:55,975 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:33:55,977 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:33:55,977 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:33:55,978 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:33:55,978 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:33:55,979 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:33:55,980 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:33:37\x00'
+2021-06-06 19:33:55,980 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:33:55,981 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:35:39,262 [DEBUG] tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:35:39,404 [DEBUG] tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\x01\x90'
+2021-06-06 19:35:39,405 [DEBUG] tag: Make (271) - type: string (2) Tag Location: 46 - Data Location: 134 - value: b'RaspberryPi\x00'
+2021-06-06 19:35:39,407 [DEBUG] tag: Model (272) - type: string (2) Tag Location: 58 - Data Location: 146 - value: b'RP_imx219\x00'
+2021-06-06 19:35:39,408 [DEBUG] tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 156 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:35:39,446 [DEBUG] tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 164 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2021-06-06 19:35:39,448 [DEBUG] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2021-06-06 19:35:39,449 [DEBUG] tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2021:06:06 19:35:37\x00'
+2021-06-06 19:35:39,449 [DEBUG] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2021-06-06 19:35:39,450 [DEBUG] tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+2021-06-06 19:41:03,851 [INFO] Program exited successfully
