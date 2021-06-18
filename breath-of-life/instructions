@@ -1,0 +1,28 @@
+Instructions for recreating The Breath of Life creature
+
+---
+
+Setting up the Circuit Playground Express (CPE):
+- Connect the CPE to your laptop via the USB-A to Micro-B cable
+- Follow the instructions in 'Tutorial-for-Circuit-Playground-Express.pdf' in this folder: https://github.com/tamejames/2021-build-journey/tree/main/breath-of-life/tutorial-docs
+- Things to note while following the above tutorial:
+    - If you have any issues with controlling the read/write mode of the CPE, try troubleshooting with 'Supporting-notes-for-CPE.pdf' in the same folder.
+    - If you are having issues with the tutorial, try this alternative tutorial: https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-quickstart
+
+Setting up the DHT11 humidity sensor:
+- Follow the instructions in this tutorial to connect the DHT11 sensor to the breadboard: https://learn.adafruit.com/dht/connecting-to-a-dhtxx-sensor
+- Things to note while following the above tutorial:
+    - Data sheet for the DHT11 humidity sensor can be found in this folder: https://github.com/tamejames/2021-build-journey/tree/main/breath-of-life/tutorial-docs. The File is called 'DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf'
+    - When connecting the DHT11 to the Circuit Playground Express (CPE), you should make the following connections:
+      - VCC of humidity sensor <--> the VOUT connection on the CPE
+      - Ground of humidity sensor <--> any GND connections on the CPE
+      - Data out of humidity sensor <--> any of the input/output pads on the CPE (The Breath of Life used the A2 pinout connection)
+    - You can see an image showing the circuit layout if you zoom into the left-hand side of this image: https://buildjourney.files.wordpress.com/2021/06/creature-hw-sw-separate.png?w=300
+
+Setting up code for The Breath of Life:
+- Once the hardware is connected, you should be able to directly run the code file 'breath-of-life-code.py'
+- Note that in order to run this program in the Mu code editor, you will need to rename the file to 'code.py'
+
+
+
+
