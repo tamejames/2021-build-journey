@@ -1,5 +1,7 @@
 Instructions for recreating CAMMY the colour-mixing cyber-physical system.
 
+---
+
 Setting up the Raspberry Pi:
 - Follow instructions here - https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up
 
@@ -19,7 +21,6 @@ Setting up the Raspberry Pi camera:
     - CAMMY used the standard version of the camera module (not the 'NoIR' version)
     - CAMMY used camera.capture to capture images, and camera.start_preview to help the user place their object where CAMMY could see it
     - CAMMY did not use video capture
-    
 
 Collecting data:
 - Follow these instruction:
