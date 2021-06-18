@@ -22,6 +22,20 @@ Setting up the DHT11 humidity sensor:
 Setting up code for The Breath of Life:
 - Once the hardware is connected, you should be able to directly run the code file 'breath-of-life-code.py'
 - Note that in order to run this program in the Mu code editor, you will need to rename the file to 'code.py'
+- If you want to edit the code, make sure the Circuit Playground Express is in 'write' mode
+- If you want to run the code, make sure the Circuit Playground Express is in 'read' mode
+- In order to make the program run or stop running, you can simply press the button in the middle of the Circuit Playground Express
+
+Setting up the aesthetic design for The Breath of Life:
+- Take a toilet roll and wrap it in brown felt fabric, and secure it in place with tape or by stapling the fabric folds to the toilet roll - this will be the 'tree trunk'
+- Take another sheet of felt (yellow or green probably work best to resemble sand or grass) and stick it down on a flat surface to act as the 'ground' for the creature
+- Secure the 'tree trunk' to the 'ground' using blu tack
+- Cut two small pieces of felt (for The Breath of Life a pink fabric was used) and use it to create a nose and mouth as shown in the right-most image here (note that the nose is placed on the middle button of the CPE): https://buildjourney.files.wordpress.com/2021/06/creature-aesthetic-progress.png?w=1024
+- Attach two googly eyes to the CPE using blu tack
+- Sit the Circuit Playground Express on the top of the tree trunk and secure it using blu tack
+- Attach branches by sticking them down the tube of the toilet roll, and securing with blu tack where needed until you are satisfied with the appearance of your creature
+
+
 
 
 
